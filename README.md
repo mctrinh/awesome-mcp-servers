@@ -11,6 +11,7 @@ These servers aim to demonstrate MCP features and the [TypeScript MCP SDK](https
 * [Fetch](https://github.com/modelcontextprotocol/servers/tree/main/src/fetch) - MCP server for retrieving and converting web content for efficient use by LLMs.
 * [Filesystem](https://github.com/modelcontextprotocol/servers/tree/main/src/filesystem) - A secure file operations server with customizable access controls via MCP.
 * [Git](https://github.com/modelcontextprotocol/servers/tree/main/src/git) - MCP server for reading, searching, and manipulating Git repositories via MCP.
+* [GitHub](https://github.com/github/github-mcp-server) - GitHub's official MCP server connects AI tools directly to GitHub's platform.
 * [Memory](https://github.com/modelcontextprotocol/servers/tree/main/src/memory) - A persistent memory system built on a knowledge graph.
 * [Sequential Thinking](https://github.com/modelcontextprotocol/servers/tree/main/src/sequentialthinking) - MCP server that supports dynamic, reflective problem-solving through structured thought sequences.
 * [Time](https://github.com/modelcontextprotocol/servers/tree/main/src/time) - A utility for time and timezone conversion using MCP.
