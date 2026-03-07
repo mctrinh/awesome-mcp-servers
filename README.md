@@ -104,6 +104,7 @@ Production-ready MCP implementations maintained by platform providers.
 * [Inbox Zero](https://github.com/elie222/inbox-zero/tree/main/apps/mcp-server) - An AI personal assistant for managing email via [Inbox Zero](https://www.getinboxzero.com).
 * [Inkeep](https://github.com/inkeep/mcp-server-python) - A RAG search server over your content powered by [Inkeep](https://inkeep.com).
 * [Integration App](https://github.com/integration-app/mcp-server) - MCP server to interact with any SaaS applications on behalf of your customers.
+* [IteraTools](https://github.com/fredpsantos33/mcp-iteratools) - A multi-tool API platform providing 24+ tools for AI agents: image generation, web scraping, browser automation, TTS, OCR, code execution, charts, DNS lookup, and more. Pay-per-use with x402 protocol.
 * [JetBrains](https://github.com/JetBrains/mcp-jetbrains) – MCP server to work on your code with JetBrains IDEs.
 * [Kagi Search](https://github.com/kagisearch/kagimcp) - MCP server to search the web using Kagi's search API.
 * [Keboola](https://github.com/keboola/keboola-mcp-server) - A platform to build robust data workflows, integrations, and analytics.
