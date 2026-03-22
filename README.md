@@ -498,6 +498,7 @@ A growing collection of community-developed servers highlights the diverse ways 
 * [Slack](https://github.com/korotovsky/slack-mcp-server) - MCP server to interact with Slack Workspaces using Stdio or SSE, without needing workspace admin permissions.
 * [Snowflake](https://github.com/isaacwasserman/mcp-snowflake-server) - MCP server to interact with Snowflake databases for secure and controlled data operations.
 * [Solver](https://github.com/szeider/mcp-solver) - MCP server to solve constraint satisfaction and optimization problems. 
+* [SolHunt](https://github.com/shieldspprt/solhunt-recovery) - Solana wallet health analysis and SOL recovery. Check wallet efficiency, find recoverable SOL from zero-balance token accounts, and build trustless recovery transactions.
 * [SoccerDataAPI](https://github.com/yeonupark/mcp-soccer-data) - MCP server to provide real-time football match data from SoccerDataAPI.
 * [Solana Agent Kit](https://github.com/sendaifun/solana-agent-kit/tree/main/examples/agent-kit-mcp-server) - MCP server to interact with the Solana blockchain using the Solana Agent Kit, supporting 40+ protocol actions.
 * [Spotify](https://github.com/varunneal/spotify-mcp) - MCP server to control and interact with Spotify for music playback and user operations.
