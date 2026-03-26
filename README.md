@@ -240,6 +240,7 @@ A growing collection of community-developed servers highlights the diverse ways 
 * [ChatSum](https://github.com/mcpso/mcp-server-chatsum) - MCP server to query and summarize chat messages using LLMs.
 * [Chess.com](https://github.com/pab1it0/chess-mcp) - MCP server that provides access to Chess.com player data, game history, and public information for chess analysis.
 * [Chroma](https://github.com/privetin/chroma) - A vector database MCP server for semantic document search and metadata filtering, built on Chroma.
+* [Clarvia](https://clarvia.art) - AEO (AI Engine Optimization) scoring and tool discovery platform for AI agents. Indexes 15,400+ MCP servers, APIs, and CLIs with free API and 24 MCP tools.
 * [ClaudePost](https://github.com/ZilongXue/claude-post) - MCP server for managing Gmail, including email search, reading, and sending, with secure LLM interactions.
 * [ClickUp](https://github.com/TaazKareem/clickup-mcp-server) - MCP server for ClickUp task management, supporting task creation, updates, bulk operations, and markdown formatting.
 * [Cloudinary](https://github.com/felores/cloudinary-mcp-server) - MCP server to upload media to Cloudinary and retrieve media links and metadata.
