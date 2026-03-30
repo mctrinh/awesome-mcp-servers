@@ -378,7 +378,7 @@ A growing collection of community-developed servers highlights the diverse ways 
 * [Markdown2doc](https://github.com/Klavis-AI/klavis/tree/main/mcp_servers/pandoc) - MCP server for converting documents between formats using Pandoc.
 * [Markitdown](https://github.com/Klavis-AI/klavis/tree/main/mcp_servers/markitdown) - MCP server for converting various file formats into Markdown.
 * [Matlab-MCP-Tools](https://github.com/neuromechanist/matlab-mcp-tools) - MCP server for executing and analyzing MATLAB code, with plot support, workspace context retention, and full MATLAB integration.
-* [Math MCP Learning](https://github.com/clouatre-labs/math-mcp-learning-server) - Educational MCP server with 17 math and statistics tools, persistent workspace, visualizations, and cloud hosting. Built with FastMCP.
+* [Math MCP Learning](https://github.com/clouatre-labs/math-mcp-learning-server) - Educational MCP server with math and statistics tools, persistent workspace, visualizations, and cloud hosting. Built with FastMCP.
 * [Maton](https://github.com/maton-ai/agent-toolkit/tree/main/modelcontextprotocol) - MCP server to connect and manage SaaS tools like HubSpot and Salesforce.
 * [MCP Compass](https://github.com/liuyoshio/mcp-compass) - MCP server that recommends the right MCP server based on your needs.
 * [mcp-containerd](https://github.com/jokemanfire/mcp-containerd) - MCP server in Rust for managing containerd operations via the CRI interface.
