@@ -521,6 +521,7 @@ A growing collection of community-developed servers highlights the diverse ways 
 * [token-minter-mcp](https://github.com/kukapay/token-minter-mcp) - MCP server to mint ERC-20 tokens across multiple blockchains.
 * [token-revoke-mcp](https://github.com/kukapay/token-revoke-mcp) - MCP server to check and revoke ERC-20 token allowances across multiple blockchains.
 * [Ton Blockchain MCP](https://github.com/devonmojito/ton-blockchain-mcp) - MCP server to interact with the TON blockchain network.
+* [ToolPipe](https://github.com/Aldric-Core/toolpipe-mcp-server) - MCP server with 145+ developer utility tools for QR codes, DNS lookup, hashing, PDF processing, text analysis, image manipulation, base64, UUID, JSON/CSV conversion, and more.
 * [Typesense](https://github.com/suhail-ak-s/mcp-typesense-server) - MCP server to search and analyze data in Typesense collections.
 * [Travel Planner](https://github.com/GongRzhe/TRAVEL-PLANNER-MCP-Server) - MCP server to assist with travel planning using Google Maps API for location search, routes, and place details.
 * [uniswap-poolspy-mcp](https://github.com/kukapay/uniswap-poolspy-mcp) - MCP server to track newly created liquidity pools on Uniswap across nine blockchain networks.
