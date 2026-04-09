@@ -63,6 +63,7 @@ Production-ready MCP implementations maintained by platform providers.
 * [CodeLogic](https://github.com/CodeLogicIncEngineering/codelogic-mcp-server) - A platform that maps code and data architecture to improve AI-driven insights.
 * [Comet Opik](https://github.com/comet-ml/opik-mcp) - MCP server to query and analyze [Opik](https://github.com/comet-ml/opik) telemetry data, including logs, traces, and prompts, in natural language.
 * [Confluent](https://github.com/confluentinc/mcp-confluent) - MCP server to interact with Confluent Kafka and Confluent Cloud REST APIs.
+* [CompanyScope MCP](https://github.com/Stewyboy1990/companyscope-mcp) - MCP server that aggregates company intelligence from 12 public sources (tech stack, funding, people, competitors, patents, news) into a single tool call. Install via `npx companyscope-mcp`.
 * [Convex](https://stack.convex.dev/convex-mcp-server) - MCP server to introspect and query applications deployed on Convex.
 * [Couchbase](https://github.com/Couchbase-Ecosystem/mcp-server-couchbase) - MCP server to interact with data stored in Couchbase clusters.
 * [CRIC Wuye AI](https://github.com/wuye-ai/mcp-server-wuye-ai) - A platform that connects with CRIC Wuye AI, an intelligent assistant for the property management industry.
