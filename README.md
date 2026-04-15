@@ -525,6 +525,7 @@ A growing collection of community-developed servers highlights the diverse ways 
 * [Travel Planner](https://github.com/GongRzhe/TRAVEL-PLANNER-MCP-Server) - MCP server to assist with travel planning using Google Maps API for location search, routes, and place details.
 * [uniswap-poolspy-mcp](https://github.com/kukapay/uniswap-poolspy-mcp) - MCP server to track newly created liquidity pools on Uniswap across nine blockchain networks.
 * [uniswap-trader-mcp](https://github.com/kukapay/uniswap-trader-mcp) - MCP server to automate token swaps on Uniswap DEX across multiple blockchains.
+* [US Business Data](https://github.com/avabuildsdata/mcp-us-business-data) - MCP server to search Secretary of State business registrations across 17 US states, building permits, SAM.gov contracts, and SEC EDGAR filings.
 * [Unity Catalog](https://github.com/ognis1205/mcp-server-unitycatalog) - MCP server to interact with Unity Catalog AI, supporting CRUD operations on functions and executing them as MCP tools.
 * [Unity3d Game Engine](https://github.com/CoderGamester/mcp-unity) - MCP server to access Unity3d Editor tools like console logs, test runner logs, editor functions, and hierarchy state, enabling interaction and resource gathering.
 * [Unity Integration (Advanced)](https://github.com/quazaai/UnityMCPIntegration) - Advanced MCP server to execute editor code, fetch logs, read editor state, and access project files in Unity3d for enhanced script editing and asset creation.
