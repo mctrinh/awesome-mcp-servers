@@ -621,3 +621,6 @@ Additional MCP resources.
 * [r/modelcontextprotocol](https://www.reddit.com/r/modelcontextprotocol) - A dedicated subreddit for exploring Model Context Protocol ideas, help, and showcases.
 * [Smithery](https://smithery.ai/) - A searchable registry of MCP servers to help LLM agents find the right tools.
 * [Toolbase](https://gettoolbase.ai) - A desktop app for managing MCP servers and tools with a no-code interface.
+
+- [theihtisham/agent-shadow-brain](https://github.com/theihtisham/agent-shadow-brain): Self-evolving AI coding intelligence with infinite memory (TurboQuant), genetic algorithm self-evolution, predictive bug detection, PageRank knowledge graphs, swarm intelligence, and adversarial defense. TypeScript/Node.js. MIT licensed.
+- [theihtisham/omni-skills-forge](https://github.com/theihtisham/omni-skills-forge): 50,000+ curated AI agent skills for Claude Code, Cursor, Copilot, Windsurf, Cline. Visual dashboard, one-click install, skill doctor, auto-update. TypeScript/Node.js. MIT licensed.
