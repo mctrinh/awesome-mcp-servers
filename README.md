@@ -7,6 +7,7 @@ A curated list of excellent Model Context Protocol (MCP) servers.
 
 These servers aim to demonstrate MCP features and the [TypeScript MCP SDK](https://github.com/modelcontextprotocol/typescript-sdk) and [Python MCP SDK](https://github.com/modelcontextprotocol/python-sdk).
 
+* [EnigmAgent](https://github.com/Agnuxo1/EnigmAgent) - An AES-256-GCM + Argon2id encrypted local vault MCP server for AI agent credentials. Resolves `{{PLACEHOLDER}}` secrets at runtime so API keys never appear in prompts, logs, or LLM context.
 * [Everything](https://github.com/modelcontextprotocol/servers/tree/main/src/everything) - A reference and test server combining prompts, tools, and resources in one place.
 * [Fetch](https://github.com/modelcontextprotocol/servers/tree/main/src/fetch) - MCP server for retrieving and converting web content for efficient use by LLMs.
 * [Filesystem](https://github.com/modelcontextprotocol/servers/tree/main/src/filesystem) - A secure file operations server with customizable access controls via MCP.
