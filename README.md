@@ -174,7 +174,6 @@ Production-ready MCP implementations maintained by platform providers.
 * [Tinybird](https://github.com/tinybirdco/mcp-tinybird) - MCP server to interact with the Tinybird serverless ClickHouse platform.
 * [Tldv](https://gitlab.com/tldv/tldv-mcp-server) - A connector for AI agents to Google Meet, Zoom & Microsoft Teams through [tldv](https://tldv.io)
 * [UnifAI](https://github.com/unifai-network/unifai-mcp-server) - A platform to dynamically search and call tools using [UnifAI Network](https://unifai.network)
-* [unslop](https://github.com/MohamedAbdallah-14/unslop) - MCP server and CLI that removes named AI writing tells from text: tricolons, em-dash pileups, hedging stacks, sycophancy openers, and overused vocab like "delve" and "crucial". Lint-only audit mode included.
 * [Unstructured](https://github.com/Unstructured-IO/UNS-MCP) - A system to set up and interact with your unstructured data processing workflows on the [Unstructured Platform](https://unstructured.io)
 * [Upstash](https://github.com/upstash/mcp-server) - A service to manage Redis databases and run Redis commands on Upstash [Upstash](https://upstash.com/) with natural language.
 * [Vectorize](https://github.com/vectorize-io/vectorize-mcp-server/) - MCP server for advanced retrieval, Private Deep Research, Anything-to-Markdown file extraction, and text chunking using [Vectorize](https://vectorize.io).
