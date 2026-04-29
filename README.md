@@ -128,6 +128,7 @@ Production-ready MCP implementations maintained by platform providers.
 * [Momento](https://github.com/momentohq/mcp-momento) - A caching solution that quickly improves performance, reduces costs, and handles load at scale.
 * [MongoDB](https://github.com/mongodb-js/mongodb-mcp-server) - MCP server supporting both MongoDB Community Server and MongoDB Atlas.
 * [MotherDuck](https://github.com/motherduckdb/mcp-server-motherduck) - A tool to query and analyze data with MotherDuck and local DuckDB.
+* [MyCarTracks](https://mycartracks.com/resources/connect-with-ai) - Remote MCP server for app-based GPS vehicle tracking and automatic mileage tracking, exposing authorized trip, track, and vehicle data.
 * [Needle](https://github.com/needle-ai/needle-mcp) - A production-ready RAG tool out of the box to search and retrieve data from your own documents.
 * [Neo4j](https://github.com/neo4j-contrib/mcp-neo4j/) - A Neo4j graph database server supporting schema, read/write Cypher queries, and graph database-backed memory.
 * [Neon](https://github.com/neondatabase/mcp-server-neon) - MCP server to interact with the Neon serverless Postgres platform.
