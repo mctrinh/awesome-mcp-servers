@@ -66,6 +66,7 @@ Production-ready MCP implementations maintained by platform providers.
 * [Convex](https://stack.convex.dev/convex-mcp-server) - MCP server to introspect and query applications deployed on Convex.
 * [Couchbase](https://github.com/Couchbase-Ecosystem/mcp-server-couchbase) - MCP server to interact with data stored in Couchbase clusters.
 * [CRIC Wuye AI](https://github.com/wuye-ai/mcp-server-wuye-ai) - A platform that connects with CRIC Wuye AI, an intelligent assistant for the property management industry.
+* [Dakera](https://github.com/dakera-ai/dakera-mcp) - Self-hosted MCP-native agent memory server. 83 tools for persistent, decay-weighted episodic memory across agent sessions. RocksDB + HNSW vector search, 87.8% LoCoMo benchmark, multi-SDK support (Python/JS/Rust/Go).
 * [Dart](https://github.com/its-dart/dart-mcp-server) - A platform to interact with tasks, docs, and projects in [Dart](https://itsdart.com), an AI-native project management tool.
 * [DataHub](https://github.com/acryldata/mcp-server-datahub) - MCP server to search data assets, explore lineage, run SQL queries, and more using [DataHub](https://datahub.com/) metadata.
 * [DexPaprika](https://github.com/coinpaprika/dexpaprika-mcp) - MCP server to access real-time DEX data, liquidity pools, token information, and trading analytics across blockchain networks.
