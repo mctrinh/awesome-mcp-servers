@@ -74,6 +74,7 @@ Production-ready MCP implementations maintained by platform providers.
 * [Dynatrace](https://github.com/dynatrace-oss/dynatrace-mcp) - A platform to manage and interact with the [Dynatrace Platform ](https://www.dynatrace.com/platform) for observability and monitoring.
 * [E2B](https://github.com/e2b-dev/mcp-server) - A platform to run code in secure sandboxes hosted by [E2B](https://e2b.dev).
 * [Edgee](https://github.com/edgee-cloud/mcp-server-edgee) - A platform to deploy and manage [Edgee](https://www.edgee.cloud) components and projects.
+* [Ejentum](https://github.com/ejentum/ejentum-mcp) - MCP server with reasoning, code, anti-deception, and memory tools for AI agents.
 * [EduBase](https://github.com/EduBase/MCP) - A platform to interact with [EduBase](https://www.edubase.net), offering advanced quizzing, exam management, and content organization tools.
 * [Elasticsearch](https://github.com/elastic/mcp-server-elasticsearch) - MCP server to query and analyze your data in [Elasticsearch](https://www.elastic.co/elasticsearch).
 * [eSignatures](https://github.com/esignaturescom/mcp-server-esignatures) - MCP server for managing contracts and templates-draft, review, and send binding agreements.
