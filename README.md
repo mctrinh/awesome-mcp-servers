@@ -47,6 +47,7 @@ Production-ready MCP implementations maintained by platform providers.
 * [Bankless Onchain](https://github.com/bankless/onchain-mcp) - MCP server to query on-chain data including ERC20 tokens, transaction history, and smart contract state.
 * [BICScan](https://github.com/ahnlabio/bicscan-mcp) - MCP server providing risk scores and asset holdings for EVM blockchain addresses and domain names.
 * [Bitrise](https://github.com/bitrise-io/bitrise-mcp) - MCP server to interact with your builds, CI pipelines, and more via chat.
+* [Bilig WorkPaper](https://github.com/proompteng/bilig) - Formula-backed WorkPaper MCP server for editing workbook cells, recalculating formulas, validating formulas, and exporting JSON state.
 * [Box](https://github.com/box-community/mcp-server-box) - MCP server to interact with the Intelligent Content Management platform through Box AI.
 * [Browserbase](https://github.com/browserbase/mcp-server-browserbase) - MCP server automating cloud-based browser interactions including navigation, data extraction, and form filling.
 * [BrowserStack](https://github.com/browserstack/mcp-server) - A platform to access BrowserStack's [Test Platform](https://www.browserstack.com/test-platform) for debugging, writing and fixing tests, accessibility testing, and more.
