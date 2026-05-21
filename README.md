@@ -266,6 +266,7 @@ A growing collection of community-developed servers highlights the diverse ways 
 * [DataWorks](https://github.com/aliyun/alibabacloud-dataworks-mcp-server) - MCP server that provides tools for AI, allowing it to interact with the [DataWorks](https://www.alibabacloud.com/help/en/dataworks/) Open API through a standardized interface.
 * [DBHub](https://github.com/bytebase/dbhub/) - A universal database MCP server connecting to MySQL, PostgreSQL, SQLite, DuckDB, and more.
 * [Deebo](https://github.com/snagasuri/deebo-prototype) - An agentic debugging MCP server that helps AI coding agents delegate and fix bugs using multi-agent hypothesis testing.
+* [MartinLoop](https://github.com/Keesan12/martin-loop/tree/main/packages/mcp) - Governed MCP runtime for AI coding agents with budget caps, verifier gates, and inspectable runs.
 * [Deep Research](https://github.com/reading-plus-ai/mcp-server-deep-research) - A lightweight MCP server offering Grok/OpenAI/Gemini/Perplexity-style automated research and structured reporting.
 * [DeepSeek MCP Server](https://github.com/DMontgomery40/deepseek-mcp-server) - MCP server integrating DeepSeek's advanced language models and additional API endpoints.
 * [Deepseek_R1](https://github.com/66julienmartin/MCP-server-Deepseek_R1) - MCP server implementation connecting Claude Desktop with DeepSeek's R1 and V3 models.
