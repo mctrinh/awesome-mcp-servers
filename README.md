@@ -336,6 +336,7 @@ A growing collection of community-developed servers highlights the diverse ways 
 * [Hyperliquid](https://github.com/mektigboy/server-hyperliquid) - MCP server that integrates with the Hyperliquid SDK for accessing exchange data.
 * [hyprmcp](https://github.com/stefanoamorelli/hyprmcp) - MCP server for interacting with `hyprland`, designed to be lightweight and efficient.
 * [iFlytek Workflow](https://github.com/iflytek/ifly-workflow-mcp-server) - MCP server for connecting to iFlytek Workflow, allowing you to run your own agent.
+* [IDPhotoSnap](https://idphotosnap.com/developers/mcp) - MCP server for passport and visa photo specifications across 100+ countries and 248 document formats. Tools for country specs, government portal file-size constraints (DS-160 240KB, Saudi Enjaz 200KB, India Sarathi 20-50KB, China COVA, Canada IRCC, Schengen VFS, K-ETA), and deep links to a browser-only photo tool. Open MIT dataset at [github.com/whitetirocket/passport-photo-specs](https://github.com/whitetirocket/passport-photo-specs).
 * [Image Generation](https://github.com/GongRzhe/Image-Generation-MCP-Server) - MCP server providing image generation capabilities using the Replicate Flux model.
 * [InfluxDB](https://github.com/idoru/influxdb-mcp-server) - MCP server for running queries against the InfluxDB OSS API v2.
 * [Inoyu](https://github.com/sergehuber/inoyu-mcp-unomi-server) - MCP server for interacting with Apache Unomi CDP, enabling retrieval and updates of customer profiles.
