@@ -523,6 +523,7 @@ A growing collection of community-developed servers highlights the diverse ways 
 * [Ton Blockchain MCP](https://github.com/devonmojito/ton-blockchain-mcp) - MCP server to interact with the TON blockchain network.
 * [Typesense](https://github.com/suhail-ak-s/mcp-typesense-server) - MCP server to search and analyze data in Typesense collections.
 * [Travel Planner](https://github.com/GongRzhe/TRAVEL-PLANNER-MCP-Server) - MCP server to assist with travel planning using Google Maps API for location search, routes, and place details.
+* [TWZRD Agent Intel](https://github.com/twzrd-sol/wzrd-final/tree/main/packages/twzrd-agent-intel) - MCP server for Solana agent trust scoring: free on-chain preflight checks and paid signed x402 trust receipts via [intel.twzrd.xyz](https://intel.twzrd.xyz).
 * [uniswap-poolspy-mcp](https://github.com/kukapay/uniswap-poolspy-mcp) - MCP server to track newly created liquidity pools on Uniswap across nine blockchain networks.
 * [uniswap-trader-mcp](https://github.com/kukapay/uniswap-trader-mcp) - MCP server to automate token swaps on Uniswap DEX across multiple blockchains.
 * [Unity Catalog](https://github.com/ognis1205/mcp-server-unitycatalog) - MCP server to interact with Unity Catalog AI, supporting CRUD operations on functions and executing them as MCP tools.
