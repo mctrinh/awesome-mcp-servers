@@ -167,6 +167,7 @@ Production-ready MCP implementations maintained by platform providers.
 * [Stripe](https://github.com/stripe/agent-toolkit) - MCP server to interact with Stripe API.
 * [Tavily](https://github.com/tavily-ai/tavily-mcp) - A search engine for AI agents (search + extract) powered by Tavily [Tavily](https://tavily.com/)
 * [Terraform](https://github.com/hashicorp/terraform-mcp-server) - An integration tool with the Terraform ecosystem, enabling advanced automation and interaction for Infrastructure as Code (IaC).
+* [The Stall](https://github.com/thebrierfox/the-stall) - A pay-per-call financial intelligence MCP server with 201 capabilities (stocks, crypto, DeFi, options, macro, insider trades, sanctions screening) via x402 USDC micropayments on Base. No API keys required; accessible via remote MCP at https://the-stall.intuitek.ai/mcp.
 * [Thirdweb](https://github.com/thirdweb-dev/ai/tree/main/python/thirdweb-mcp) - A platform to read/write to over 2k blockchains, enabling data querying, contract analysis/deployment, and transaction execution powered by Thirdweb [Thirdweb](https://thirdweb.com/).
 * [Tianji](https://github.com/msgbyte/tianji/tree/master/apps/mcp-server) - MCP server to interact with the Tianji platform, whether self-hosted or cloud-based.
 * [TiDB](https://github.com/pingcap/pytidb) - MCP server to interact with the TiDB database platform.
