@@ -51,6 +51,7 @@ Production-ready MCP implementations maintained by platform providers.
 * [Browserbase](https://github.com/browserbase/mcp-server-browserbase) - MCP server automating cloud-based browser interactions including navigation, data extraction, and form filling.
 * [BrowserStack](https://github.com/browserstack/mcp-server) - A platform to access BrowserStack's [Test Platform](https://www.browserstack.com/test-platform) for debugging, writing and fixing tests, accessibility testing, and more.
 * [Burp Suite](https://github.com/PortSwigger/mcp-server) - MCP server extension enabling AI clients to connect with [Burp Suite](https://portswigger.net) for security testing.
+* [BuyWhere](https://github.com/BuyWhere/buywhere-mcp) - MCP server for real-time product search and price comparison across 260K+ products from Lazada, Shopee, FairPrice, Courts, and other Southeast Asia merchants. Get free API key at [buywhere.ai/api-keys](https://buywhere.ai/api-keys).
 * [Cartesia](https://github.com/cartesia-ai/cartesia-mcp) - A platform to connect with the [Cartesia](https://cartesia.ai/) voice system for text-to-speech, voice cloning, and more. 
 * [Chargebee](https://github.com/chargebee/agentkit/tree/main/modelcontextprotocol) - MCP server that connects AI agents to the [Chargebee platform](https://www.chargebee.com).
 * [Chiki StudIO](https://chiki.studio/galimybes/mcp/) - A platform to create configurable MCP servers without code, using instructions, prompts, and tool support.
