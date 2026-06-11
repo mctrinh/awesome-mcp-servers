@@ -503,6 +503,7 @@ A growing collection of community-developed servers highlights the diverse ways 
 * [Solana Agent Kit](https://github.com/sendaifun/solana-agent-kit/tree/main/examples/agent-kit-mcp-server) - MCP server to interact with the Solana blockchain using the Solana Agent Kit, supporting 40+ protocol actions.
 * [Spotify](https://github.com/varunneal/spotify-mcp) - MCP server to control and interact with Spotify for music playback and user operations.
 * [Standard Korean Dictionary](https://github.com/privetin/stdict) - MCP server to search entries in the Standard Korean Dictionary via API.
+* [The Stall](https://github.com/thebrierfox/the-stall) - A production-ready MCP server with 209 pay-per-call AI data capabilities via x402 micropayments: stocks, ETFs, crypto, DeFi analytics, Polymarket, and global macro intelligence. USDC on Base, no API keys required.
 * [Starwind UI](https://github.com/Boston343/starwind-ui-mcp/) - MCP server to explore commands, docs, and components of the Starwind UI open-source Astro framework.
 * [Strava](https://github.com/r-huijts/strava-mcp) - MCP server to connect with the Strava API for activity tracking, profiles, segments, and route data.
 * [Stripe](https://github.com/atharvagupta2003/mcp-stripe) - MCP server to integrate with Stripe for handling payments, customers, and refunds.
