@@ -460,6 +460,7 @@ A growing collection of community-developed servers highlights the diverse ways 
 * [Playwright](https://github.com/executeautomation/mcp-playwright) - MCP server for browser automation and web scraping using Playwright.
 * [Postman](https://github.com/shannonlal/mcp-postman) - Run Postman Collections locally via Newman; execute tests and return results through MCP.
 * [Prefect](https://github.com/allen-munsch/mcp-prefect) - MCP server for workflow orchestration and ELT/ETL with Prefect Server and Prefect Cloud [https://www.prefect.io/] using the `prefect` Python client.
+* [ProposalCraft](https://github.com/jabbawocky/proposalcraft) - MCP server that drafts client proposals in your voice, learned from your past winning work. Analyzes briefs for budget signals and red flags before drafting.
 * [Productboard](https://github.com/kenjihikmatullah/productboard-mcp) - MCP server to integrate Productboard API into agent workflows via MCP.
 * [Prometheus](https://github.com/pab1it0/prometheus-mcp-server) - MCP server to query and analyze metrics from the Prometheus monitoring system.
 * [PubChem](https://github.com/sssjiang/pubchem_mcp_server) - MCP server to extract drug and chemical information using the PubChem API.
