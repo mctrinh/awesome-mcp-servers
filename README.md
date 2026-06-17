@@ -101,6 +101,7 @@ Production-ready MCP implementations maintained by platform providers.
 * [HubSpot](https://developer.hubspot.com/mcp) - MCP server to connect, manage, and interact with [HubSpot](https://www.hubspot.com/) CRM data.
 * [Hyperbrowser](https://github.com/hyperbrowserai/mcp) - A platform empowering AI agents with scalable, effortless browser automation via [Hyperbrowser](https://www.hyperbrowser.ai/).
 * [IBM wxflows](https://github.com/IBM/wxflows/tree/main/examples/mcp/javascript) - A tool platform by IBM to build, test, and deploy tools for any data source.
+* [Ignav Flights](https://github.com/gusgordon/ignav-skill) - Hosted MCP server providing live flight prices, booking links, and airport lookup for AI agents.
 * [Inbox Zero](https://github.com/elie222/inbox-zero/tree/main/apps/mcp-server) - An AI personal assistant for managing email via [Inbox Zero](https://www.getinboxzero.com).
 * [Inkeep](https://github.com/inkeep/mcp-server-python) - A RAG search server over your content powered by [Inkeep](https://inkeep.com).
 * [Integration App](https://github.com/integration-app/mcp-server) - MCP server to interact with any SaaS applications on behalf of your customers.
