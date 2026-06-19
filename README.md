@@ -161,6 +161,7 @@ Production-ready MCP implementations maintained by platform providers.
 * [Search1API](https://github.com/fatwang2/search1api-mcp) - An API for search, crawling, and sitemaps.
 * [ScreenshotOne](https://github.com/screenshotone/mcp/) - A tool to render website screenshots with [ScreenshotOne](https://screenshotone.com/)
 * [Semgrep](https://github.com/semgrep/mcp) - MCP server enabling AI agents to secure code with [Semgrep](https://semgrep.dev/).
+* [Sharpe Terminal](https://www.npmjs.com/package/@sharpe-labs/mcp-server) - MCP server for crypto market intelligence, including funding rates, derivatives, arbitrage, narratives, news, and token risk checks.
 * [SingleStore](https://github.com/singlestore-labs/mcp-server-singlestore) - MCP server to interact with the SingleStore database platform.
 * [Snyk](https://github.com/snyk/snyk-ls/blob/main/mcp_extension/README.md) - A tool to enhance security posture by embedding Snyk vulnerability scanning directly into agentic workflows.
 * [StarRocks](https://github.com/StarRocks/mcp-server-starrocks) - MCP server to interact with StarRocks.
