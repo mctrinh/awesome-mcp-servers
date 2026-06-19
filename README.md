@@ -224,6 +224,7 @@ A growing collection of community-developed servers highlights the diverse ways 
 * [Azure DevOps](https://github.com/Vortiago/mcp-azure-devops) - MCP server that provides access to Azure DevOps services, including querying and managing work items.
 * [Baidu AI Search](https://github.com/baidubce/app-builder/tree/master/python/mcp_server/ai_search) - MCP server that enables web search using Baidu Cloud's AI search.
 * [BambooHR MCP](https://github.com/encoreshao/bamboohr-mcp) - MCP server that interfaces with the BambooHR API, providing access to employee data, time tracking, and HR management features.
+* [BGPT MCP](https://github.com/connerlambden/bgpt-mcp) - MCP server for searching scientific papers with structured experimental data extracted from full-text studies, returning 25+ fields per paper including methods, results, sample sizes, and quality scores.
 * [Base Free USDC Transfer](https://github.com/magnetai/mcp-free-usdc-transfer) - MCP server to send USDC on Base for free using Claude AI. Built with [Coinbase CDP](https://docs.cdp.coinbase.com/mpc-wallet/docs/welcome).
 * [Basic Memory](https://github.com/basicmachines-co/basic-memory) - A local-first knowledge management system that builds a semantic graph from Markdown files, enabling persistent memory across LLM conversations.
 * [BigQuery](https://github.com/LucasHild/mcp-server-bigquery) - MCP server that enables LLMs to inspect database schemas and execute SQL queries on BigQuery.
