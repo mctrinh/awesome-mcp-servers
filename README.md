@@ -424,6 +424,7 @@ A growing collection of community-developed servers highlights the diverse ways 
 * [NS Travel Information](https://github.com/r-huijts/ns-mcp-server) - MCP server for accessing real-time Dutch Railways (NS) travel data, including delays and disruptions.
 * [Neo4j](https://github.com/da-okazaki/mcp-neo4j-server) - MCP server for interacting with Neo4j graph databases.
 * [Neovim](https://github.com/bigcodegen/mcp-neovim-server) - MCP server to interact with and control a Neovim session.
+* [Not Human Search](https://nothumansearch.ai/mcp) - MCP server indexing 1,900+ agent-first tools (MCP servers, OpenAPI specs, llms.txt). Tools include `search_sites`, `verify_mcp` (live JSON-RPC probe to validate a URL actually implements MCP), and `list_categories`. Public, free, no auth.
 * [nomad-mcp](https://github.com/kocierik/mcp-nomad) - MCP server for managing HashiCorp Nomad clusters and workloads.
 * [Notion](https://github.com/suekou/mcp-notion-server) - MCP server for integrating with the Notion API, enabling read/write actions.
 * [Notion](https://github.com/v-3/notion-server) - MCP server for searching, reading, updating, and creating Notion pages via Claude-compatible agents.
