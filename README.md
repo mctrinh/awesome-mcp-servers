@@ -139,6 +139,7 @@ Production-ready MCP implementations maintained by platform providers.
 * [OP.GG](https://github.com/opgginc/opgg-mcp) - An API to access real-time gaming data across popular titles such as League of Legends, TFT, and Valorant, including champion analytics and esports schedules.
 * [OpsLevel](https://github.com/opslevel/opslevel-mcp) - An official MCP server for the [OpsLevel](https://www.opslevel.com) platform.
 * [Oxylabs](https://github.com/oxylabs/oxylabs-mcp) - An API to scrape websites using Oxylabs Web API, with support for dynamic rendering and structured data extraction.
+* [Packrift](https://github.com/Packrift/packrift-mcp) - MCP server for Packrift packaging-supplies catalog search, pricing and inventory context, and ecommerce cart URL creation.
 * [Paddle](https://github.com/PaddleHQ/paddle-mcp-server) - MCP server to interact with the Paddle API for managing product catalog, billing, subscriptions, and reports.
 * [Pagos](https://github.com/pagos-ai/pagos-mcp) - MCP server to query Credit Card BIN Data via the Pagos API, with more features planned.
 * [PayPal](https://mcp.paypal.com) - An official MCP server for PayPal.
