@@ -135,6 +135,7 @@ Production-ready MCP implementations maintained by platform providers.
 * [Notion](https://github.com/makenotion/notion-mcp-server#readme) - MCP server implementation for the Notion API.
 * [OceanBase](https://github.com/oceanbase/mcp-oceanbase) - MCP server for the OceanBase database and its tools.
 * [Octagon](https://github.com/OctagonAI/octagon-mcp-server) - A platform delivering real-time investment research with extensive private and public market data.
+* [OBSD LaunchPad](https://github.com/thryxagi/obsd-launchpad) - Full token lifecycle MCP for AI agents on Base. 12 tools: deploy, buy, sell, claim fees, quotes, referral program, and earnings analytics via `npx obsd-launchpad-mcp`. Treasury-backed intrinsic value floor, 37.5% passive OBSD income, built-in affiliate program.
 * [OlaMaps](https://pypi.org/project/ola-maps-mcp-server) - An official Ola Maps MCP Server offering services like geocode, directions, place details, and more.
 * [OP.GG](https://github.com/opgginc/opgg-mcp) - An API to access real-time gaming data across popular titles such as League of Legends, TFT, and Valorant, including champion analytics and esports schedules.
 * [OpsLevel](https://github.com/opslevel/opslevel-mcp) - An official MCP server for the [OpsLevel](https://www.opslevel.com) platform.
