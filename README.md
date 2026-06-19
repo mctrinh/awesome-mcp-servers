@@ -453,6 +453,7 @@ A growing collection of community-developed servers highlights the diverse ways 
 * [Pandoc](https://github.com/vivekVells/mcp-pandoc) - MCP server for seamless document format conversion (Markdown, HTML, PDF, DOCX, CSV, etc.) using Pandoc.
 * [Paradex MCP](https://github.com/sv/mcp-paradex-py) - MCP native server to interact with the Paradex platform, including full trading features.
 * [Phone MCP](https://github.com/hao-cyber/phone-mcp) - Plugin enabling AI agents to control Android phones for tasks like playing music, making calls, and sending texts.
+* [Pictify](https://github.com/pictify-io/mcp) - MCP server for rendering images, animated GIFs, and PDFs from HTML/CSS, live URLs, or reusable Handlebars/FabricJS templates. Batch up to 100 personalised renders per request and A/B test image variants. Hosted remote at `https://mcp.pictify.io` or self-host via `npx -y @pictify/mcp-server`.
 * [PIF](https://github.com/hungryrobot1/MCP-PIF) - Personal Intelligence Framework providing tools for file operations, structured reasoning, and journal-based documentation to support evolving human-AI collaboration.
 * [Pinecone](https://github.com/sirmews/mcp-pinecone) - MCP server to search and upload records to Pinecone, enabling retrieval-augmented generation (RAG) with Pinecone's Inference API.
 * [Placid.app](https://github.com/felores/placid-mcp-server) - Generate image and video creatives using Placid.app templates via MCP.
