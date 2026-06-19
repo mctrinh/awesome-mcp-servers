@@ -449,6 +449,7 @@ A growing collection of community-developed servers highlights the diverse ways 
 * [Open Strategy Partners Marketing Tools](https://github.com/open-strategy-partners/osp_marketing_tools) - MCP server offering product marketing tools such as content editing, value maps, and positioning.
 * [Oura Ring](https://github.com/rajvirtual/oura-mcp-server) - MCP server to access and analyze health metrics from Oura Ring data.
 * [Outline](https://github.com/Vortiago/mcp-outline) - MCP server for interacting with [Outline](https://www.getoutline.com) knowledge bases; supports document search, creation, management, and collaboration.
+* **[operant-mcp](https://github.com/operantlabs/operant-mcp)** - Security testing MCP server with 51 tools for penetration testing, network forensics, memory analysis, and vulnerability assessment.
 * [pancakeswap-poolspy-mcp](https://github.com/kukapay/pancakeswap-poolspy-mcp) - MCP server tracking newly created liquidity pools on PancakeSwap.
 * [Pandoc](https://github.com/vivekVells/mcp-pandoc) - MCP server for seamless document format conversion (Markdown, HTML, PDF, DOCX, CSV, etc.) using Pandoc.
 * [Paradex MCP](https://github.com/sv/mcp-paradex-py) - MCP native server to interact with the Paradex platform, including full trading features.
