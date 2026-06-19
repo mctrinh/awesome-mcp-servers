@@ -27,6 +27,7 @@ Production-ready MCP implementations maintained by platform providers.
 * [Adfin](https://github.com/Adfin-Engineering/mcp-server-adfin) - A platform to manage payments, invoicing, and accounting reconciliations through [Adfin](https://www.adfin.com/).
 * [AgentQL](https://github.com/tinyfish-io/agentql-mcp) - A platform that enables AI agents to extract structured data from unstructured web content using [AgentQL](https://www.agentql.com/).
 * [AgentRPC](https://github.com/agentrpc/agentrpc) - A platform to connect to any function, in any language, across network boundaries using [AgentRPC](https://www.agentrpc.com/).
+* [Arch Tools](https://archtools.dev) - 61 production AI tools (web scraping, crypto data, AI generation, sentiment analysis, OCR, TTS, and more) with x402 USDC payments and MCP support. [MCP Server](https://arch-tools-mcp.onrender.com/mcp)
 * [Aiven](https://github.com/Aiven-Open/mcp-aiven) - A platform to navigate your [Aiven projects](https://go.aiven.io/mcp-server) and interact with PostgreSQL, Apache Kafka, ClickHouse, and OpenSearch services.
 * [Alation](https://github.com/Alation/alation-ai-agent-sdk) - A platform unlocking the power of the enterprise Data Catalog via tools provided by the Alation MCP server.
 * [Algolia MCP](https://github.com/algolia/mcp-node) - MCP server exposing a natural language interface to query, inspect, and manage Algolia indices and configurations for monitoring, debugging, and optimizing search performance.
