@@ -242,6 +242,7 @@ A growing collection of community-developed servers highlights the diverse ways 
 * [Chess.com](https://github.com/pab1it0/chess-mcp) - MCP server that provides access to Chess.com player data, game history, and public information for chess analysis.
 * [Chroma](https://github.com/privetin/chroma) - A vector database MCP server for semantic document search and metadata filtering, built on Chroma.
 * [ClaudePost](https://github.com/ZilongXue/claude-post) - MCP server for managing Gmail, including email search, reading, and sending, with secure LLM interactions.
+* [Commune MCP](https://github.com/commune-sh/commune-mcp) - Email infrastructure for AI agents. Provision inboxes programmatically, send and receive email, manage threads across concurrent conversations, custom domains, attachments, structured extraction on inbound mail, and SMS.
 * [ClickUp](https://github.com/TaazKareem/clickup-mcp-server) - MCP server for ClickUp task management, supporting task creation, updates, bulk operations, and markdown formatting.
 * [Cloudinary](https://github.com/felores/cloudinary-mcp-server) - MCP server to upload media to Cloudinary and retrieve media links and metadata.
 * [code-assistant](https://github.com/stippi/code-assistant) - A code exploration and modification assistant for trusted repositories, with limited protection against prompt injection.
