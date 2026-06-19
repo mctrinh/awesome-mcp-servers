@@ -485,6 +485,7 @@ A growing collection of community-developed servers highlights the diverse ways 
 * [Rquest](https://github.com/xxxbrian/mcp-rquest) - MCP server providing realistic browser-like HTTP requests with advanced TLS/JA3/JA4 fingerprinting for anti-bot bypass.
 * [Rijksmuseum](https://github.com/r-huijts/rijksmuseum-mcp) - MCP server to interface with the Rijksmuseum API for searching artworks, retrieving details, accessing image tiles, and exploring collections.
 * [Riot Games](https://github.com/jifrozen0110/mcp-riot) - MCP server to fetch player info, ranks, champion stats, and match history from the Riot Games API for League of Legends.
+* [Roundtable](https://github.com/sinaneshat/roundtable-dashboard) - MCP server for multi-model AI brainstorming — consult a council of AI models that debate your question, then a moderator synthesizes the best answer. 13 tools including consult_council, review_code, debug_issue, design_architecture, plan_implementation, and assess_tradeoffs.
 * [Salesforce MCP](https://github.com/salesforce-mcp/salesforce-mcp) - MCP server to interact with Salesforce cloud for data and metadata operations. 
 * [Rust MCP Filesystem](https://github.com/rust-mcp-stack/rust-mcp-filesystem) - MCP server for fast, asynchronous filesystem operations built in Rust.
 * [Salesforce MCP](https://github.com/smn2gnt/MCP-Salesforce) - MCP server to interact with Salesforce data and metadata.
