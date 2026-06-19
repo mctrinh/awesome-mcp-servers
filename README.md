@@ -146,6 +146,7 @@ Production-ready MCP implementations maintained by platform providers.
 * [Pinecone](https://github.com/pinecone-io/pinecone-mcp) - A developer MCP server assisting with documentation search and data management within the Pinecone environment.
 * [Pinecone Assistant](https://github.com/pinecone-io/assistant-mcp) - MCP server that retrieves context from your Pinecone Assistant knowledge base.
 * [Prisma](https://www.prisma.io/docs/postgres/mcp-server) - MCP server to create and manage Prisma Postgres databases.
+* [prompt-to-asset](https://github.com/MohamedAbdallah-14/prompt-to-asset) - MCP server and CLI that generates production-ready visual assets (app icons, favicons, OG images, logos) by routing requests across 30+ image generation models. Zero API key for first run via Pollinations, Stable Horde, and HuggingFace free tiers.
 * [Pulumi](https://github.com/pulumi/mcp-server) - MCP server to deploy and manage cloud infrastructure using [Pulumi](https://pulumi.com).
 * [Pure.md](https://github.com/puremd/puremd-mcp) - MCP server to reliably access web content in markdown format with bot detection avoidance, proxy rotation, and headless JS rendering.
 * [Put.io](https://github.com/putdotio/putio-mcp-server) - MCP server to interact with your Put.io account for torrent downloads.
