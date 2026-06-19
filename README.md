@@ -205,6 +205,7 @@ A growing collection of community-developed servers highlights the diverse ways 
 * [AlphaVantage](https://github.com/calvernaz/alphavantage) - MCP server for accessing stock market data from [AlphaVantage](https://www.alphavantage.co).
 * [Amadeus](https://github.com/donghyun-chae/mcp-amadeus) - MCP server to interact with the Amadeus Flight Offers Search API for detailed flight information.
 * [Anki](https://github.com/scorzeth/anki-mcp-server) - MCP server to interact with your [Anki](https://apps.ankiweb.net) decks and cards.
+* [Antigravity Link](https://github.com/cafeTechne/antigravity-link-extension) - MCP server and mobile companion for Google's Antigravity IDE. Mirror active AI chat sessions on your phone, send messages, upload files, stop AI generation, and automate workflows via 9 MCP tools or a local OpenAPI HTTP API.
 * [Any Chat Completions](https://github.com/pyroprompts/any-chat-completions-mcp) - MCP server to interact with any OpenAI SDK-compatible chat completions API (e.g., OpenAI, Perplexity, Groq, xAI).
 * [Apache Gravitino (incubating)](https://github.com/datastrato/mcp-server-gravitino) - MCP server to explore metadata and perform governance on structured and unstructured data via Gravitino.
 * [APIWeaver](https://github.com/GongRzhe/APIWeaver) - MCP server that dynamically generates other MCP servers from REST, GraphQL, or other API configs for integration with tools like Claude.
