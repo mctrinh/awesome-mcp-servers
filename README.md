@@ -135,6 +135,7 @@ Production-ready MCP implementations maintained by platform providers.
 * [Notion](https://github.com/makenotion/notion-mcp-server#readme) - MCP server implementation for the Notion API.
 * [OceanBase](https://github.com/oceanbase/mcp-oceanbase) - MCP server for the OceanBase database and its tools.
 * [Octagon](https://github.com/OctagonAI/octagon-mcp-server) - A platform delivering real-time investment research with extensive private and public market data.
+* [Octav API](https://github.com/Octav-Labs/octav-api-mcp) - A multi-chain crypto portfolio tracking MCP server providing access to wallet holdings, DeFi protocol positions, transaction history, and token analytics across 20+ blockchains.
 * [OlaMaps](https://pypi.org/project/ola-maps-mcp-server) - An official Ola Maps MCP Server offering services like geocode, directions, place details, and more.
 * [OP.GG](https://github.com/opgginc/opgg-mcp) - An API to access real-time gaming data across popular titles such as League of Legends, TFT, and Valorant, including champion analytics and esports schedules.
 * [OpsLevel](https://github.com/opslevel/opslevel-mcp) - An official MCP server for the [OpsLevel](https://www.opslevel.com) platform.
