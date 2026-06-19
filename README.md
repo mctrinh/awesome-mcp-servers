@@ -622,3 +622,4 @@ Additional MCP resources.
 * [r/modelcontextprotocol](https://www.reddit.com/r/modelcontextprotocol) - A dedicated subreddit for exploring Model Context Protocol ideas, help, and showcases.
 * [Smithery](https://smithery.ai/) - A searchable registry of MCP servers to help LLM agents find the right tools.
 * [Toolbase](https://gettoolbase.ai) - A desktop app for managing MCP servers and tools with a no-code interface.
+* [CKSP](https://github.com/taki-cksp/cksp) — Transfer not answers, but the *path of thinking itself* between AIs and humans.
