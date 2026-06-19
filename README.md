@@ -97,6 +97,7 @@ Production-ready MCP implementations maintained by platform providers.
 * [GreptimeDB](https://github.com/GreptimeTeam/greptimedb-mcp-server) - MCP server providing AI assistants with a secure and structured way to explore and analyze data in [GreptimeDB](https://github.com/GreptimeTeam/greptimedb).
 * [Heroku](https://github.com/heroku/heroku-mcp-server) - MCP server to interact with the Heroku platform through LLM-driven tools for managing apps, add-ons, dynos, databases, and more.
 * [Hologres](https://github.com/aliyun/alibabacloud-hologres-mcp-server) - MCP server to connect to a [Hologres](https://www.alibabacloud.com/en/product/hologres) instance, get table metadata, and analyze data.
+* [Hive Intelligence](https://github.com/hive-intel/hive-sdk) - Managed crypto intelligence MCP for AI agents across market data, DeFi, wallets, token risk, DEX flows, NFTs, Solana, infrastructure, and prediction markets.
 * [Honeycomb](https://github.com/honeycombio/honeycomb-mcp) - A platform that allows [Honeycomb Enterprise](https://www.honeycomb.io/) customers to query data, dashboards, and production behavior.
 * [HubSpot](https://developer.hubspot.com/mcp) - MCP server to connect, manage, and interact with [HubSpot](https://www.hubspot.com/) CRM data.
 * [Hyperbrowser](https://github.com/hyperbrowserai/mcp) - A platform empowering AI agents with scalable, effortless browser automation via [Hyperbrowser](https://www.hyperbrowser.ai/).
@@ -591,6 +592,7 @@ Additional MCP resources.
 
 
 * [AiMCP](https://www.aimcp.info) - A discovery platform of MCP clients and servers to help users choose the right tools for their workflow.
+* [Awesome Crypto MCP Servers](https://github.com/hive-intel/awesome-crypto-mcp-servers) - A curated, maintained list of crypto, Web3, DeFi, wallet, trading, on-chain data, Blockchain development, and AI-agent MCP servers.
 * [Awesome Crypto MCP Servers](https://github.com/badkk/awesome-crypto-mcp-servers) - A curated list of MCP servers with a focus on crypto and blockchain integrations.
 * [Awesome MCP Servers](https://github.com/appcypher/awesome-mcp-servers) - A curated list of MCP servers.
 * [Awesome MCP Servers](https://github.com/punkpeye/awesome-mcp-servers) - A curated list of MCP servers.
