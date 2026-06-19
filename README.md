@@ -552,6 +552,7 @@ A growing collection of community-developed servers highlights the diverse ways 
 * [Xero-mcp-server](https://github.com/john-zhang-dev/xero-mcp) - MCP server to manage accounting, invoicing, and business data via the Xero API.
 * [XiYan](https://github.com/XGenerationLab/xiyan_mcp_server) - MCP server to convert natural language into SQL and retrieve database records using XiyanSQL.
 * [XMind](https://github.com/apeyroux/mcp-xmind) - MCP server to read and search XMind files within a directory.
+* [YIELD INTELLIGENCE](https://github.com/thebrierfox/intuitek-ace) - MCP server for passive income analysis with live US Treasury rates, dividend ETFs, REITs, and AI-powered portfolio optimization targeting a monthly income goal. Open endpoint: `https://api.intuitek.ai/yield/mcp`
 * [YNAB](https://github.com/ChuckBryan/ynabmcpserver) - MCP server to integrate with YNAB (You Need A Budget) for secure financial data access and analysis.
 * [YouTube](https://github.com/Klavis-AI/klavis/tree/main/mcp_servers/youtube) - MCP server to extract YouTube video metadata with proxy support.
 * [YouTube](https://github.com/ZubeidHendricks/youtube-mcp-server) - MCP server to manage YouTube videos, Shorts, and access channel analytics.
