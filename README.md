@@ -219,6 +219,7 @@ A growing collection of community-developed servers highlights the diverse ways 
 * [AWS Athena](https://github.com/lishenxydlgzs/aws-athena-mcp) - MCP server for querying AWS Athena using SQL on the Glue Catalog.
 * [AWS Cost Explorer](https://github.com/aarora79/aws-cost-explorer-mcp-server) - MCP server to analyze and optimize AWS (and Amazon Bedrock) spend.
 * [AWS Resources Operations](https://github.com/baryhuang/mcp-server-aws-resources-python) - MCP server for secure querying and modification of AWS resources using Python (via boto3).
+* [ax](https://github.com/Necmttn/ax) - Local-first telemetry and memory MCP server for AI coding agents, exposing recall, session drill-down, cost analytics, skill/hook usage, dispatches, and workflow evidence across Claude Code, Codex, Pi, OpenCode, and Cursor histories.
 * [AWS S3](https://github.com/aws-samples/sample-mcp-server-s3) - A sample MCP server to flexibly retrieve objects like PDFs from AWS S3.
 * [Azure ADX](https://github.com/pab1it0/adx-mcp-server) - MCP server to query and analyze Azure Data Explorer (ADX) databases.
 * [Azure DevOps](https://github.com/Vortiago/mcp-azure-devops) - MCP server that provides access to Azure DevOps services, including querying and managing work items.
