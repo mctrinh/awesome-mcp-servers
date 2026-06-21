@@ -547,6 +547,7 @@ A growing collection of community-developed servers highlights the diverse ways 
 * [World Bank data API](https://github.com/anshumax/world_bank_mcp_server) - MCP server to fetch global development indicators from the World Bank API.
 * [X (Twitter)](https://github.com/EnesCinr/twitter-mcp) - MCP server to interact with the Twitter API: post tweets and search for tweets by query.
 * [X (Twitter)](https://github.com/vidhupv/x-mcp) - MCP server to create, manage, and publish Twitter/X posts directly via Claude chat.
+* [TwitterAPI.io MCP Server](https://github.com/kaitoInfra/twitterapi-io-mcp-server) - Hosted MCP server for [twitterapi.io](https://twitterapi.io) (Twitter/X data API for AI agents). 12 read-only tools: tweet search with full operators, profiles, followers, conversation threads, real-time WebSocket streaming, trending topics. Hosted endpoint at `mcp.twitterapi.io/mcp`.
 * [Xcode](https://github.com/r-huijts/xcode-mcp-server) - MCP server to bring AI assistance to Xcode projects, enabling code generation, file operations, and project management.
 * [xcodebuild](https://github.com/ShenghaiWang/xcodebuild) - MCP server to build Xcode projects or workspaces and return compiler output and errors to the LLM.
 * [Xero-mcp-server](https://github.com/john-zhang-dev/xero-mcp) - MCP server to manage accounting, invoicing, and business data via the Xero API.
