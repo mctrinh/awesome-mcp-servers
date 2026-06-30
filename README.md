@@ -96,6 +96,7 @@ Production-ready MCP implementations maintained by platform providers.
 * [Graphlit](https://github.com/graphlit/graphlit-mcp-server) - A platform to ingest content from Slack, Gmail, podcast feeds, and the web into a searchable [Graphlit](https://www.graphlit.com) project.
 * [GreptimeDB](https://github.com/GreptimeTeam/greptimedb-mcp-server) - MCP server providing AI assistants with a secure and structured way to explore and analyze data in [GreptimeDB](https://github.com/GreptimeTeam/greptimedb).
 * [Heroku](https://github.com/heroku/heroku-mcp-server) - MCP server to interact with the Heroku platform through LLM-driven tools for managing apps, add-ons, dynos, databases, and more.
+* [Hephaestus](https://github.com/agentlas-ai/Hephaestus) - MCP-enabled local runtime for routing coding agents and skills across Claude Code, Codex, and Cursor.
 * [Hologres](https://github.com/aliyun/alibabacloud-hologres-mcp-server) - MCP server to connect to a [Hologres](https://www.alibabacloud.com/en/product/hologres) instance, get table metadata, and analyze data.
 * [Honeycomb](https://github.com/honeycombio/honeycomb-mcp) - A platform that allows [Honeycomb Enterprise](https://www.honeycomb.io/) customers to query data, dashboards, and production behavior.
 * [HubSpot](https://developer.hubspot.com/mcp) - MCP server to connect, manage, and interact with [HubSpot](https://www.hubspot.com/) CRM data.
