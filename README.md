@@ -115,6 +115,7 @@ Production-ready MCP implementations maintained by platform providers.
 * [Linear](https://linear.app/docs/mcp) - MCP server to search, create, and update Linear issues, projects, and comments.
 * [Lingo.dev](https://github.com/lingodotdev/lingo.dev/blob/main/mcp.md) - MCP server to make your AI agent speak every language on the planet, using [Lingo.dev](https://lingo.dev)'s Localization Engine.
 * [Litmus.io](https://github.com/litmusautomation/litmus-mcp-server) - An official MCP server for configuring [Litmus](https://litmus.io) Edge for Industrial Data Collection, Edge Analytics & Industrial AI.
+* [LLM Pulse](https://github.com/LLM-Pulse/llmpulse-mcp) - MCP server for AI search visibility analytics, covering brand mentions, citations, sentiment, share of voice, tracked prompts, recommendations, and AI-referred traffic.
 * [Mailgun](https://github.com/mailgun/mailgun-mcp-server) - MCP server to interact with the Mailgun API.
 * [Make](https://github.com/integromat/make-mcp-server) - MCP server to turn your [Make](https://www.make.com/) scenarios into callable tools for AI assistants.
 * [MCP Toolbox for Databases](https://github.com/googleapis/genai-toolbox) - An open source MCP server specializing in easy, fast, and secure tools for databases like AlloyDB, BigQuery, Bigtable, Cloud SQL, Dgraph, MySQL, Neo4j, Postgres, Spanner, and more.
