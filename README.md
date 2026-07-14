@@ -108,6 +108,7 @@ Production-ready MCP implementations maintained by platform providers.
 * [Kagi Search](https://github.com/kagisearch/kagimcp) - MCP server to search the web using Kagi's search API.
 * [Keboola](https://github.com/keboola/keboola-mcp-server) - A platform to build robust data workflows, integrations, and analytics.
 * [Klavis ReportGen](https://github.com/Klavis-AI/klavis/tree/main/mcp_servers/report_generation) - MCP server to create professional reports from a simple user query.
+* [KLinePic](https://github.com/sher1096/klinepic-agent-api-examples) - Tested MCP server for turning broker or exchange fills into annotated post-trade candlestick review charts, with one-click MCPB, capability discovery, free preflight, and user-confirmed rendering; no signals, predictions, advice, or order execution.
 * [KWDB](https://github.com/KWDB/kwdb-mcp-server) - MCP server for reading, writing, querying, and modifying data in your KWDB database.
 * [Lara Translate](https://github.com/translated/lara-mcp) - MCP server for Lara Translate API, enabling powerful translation capabilities with support for language detection and context-aware translations.
 * [Logfire](https://github.com/pydantic/logfire-mcp) - MCP server that provides access to OpenTelemetry traces and metrics through Logfire.
