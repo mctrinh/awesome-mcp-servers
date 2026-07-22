@@ -182,6 +182,7 @@ Production-ready MCP implementations maintained by platform providers.
 * [VeyraX](https://github.com/VeyraX/veyrax-mcp) - A single tool to control over 100 API integrations and UI components.
 * [WayStation](https://github.com/waystation-ai/mcp) - A universal MCP server to connect to popular productivity tools such as Notion, Monday, Airtable, and many more.
 * [WaveSpeed](https://github.com/WaveSpeedAI/mcp-server) - MCP server providing AI agents with image and video generation capabilities.
+* [Wolfram](https://agenttools.wolfram.com/mcp) - Inject precise, real-time computation and knowledge.
 * [Xero](https://github.com/XeroAPI/xero-mcp-server) - An official MCP server to interact with the accounting data in your business.
 * [YugabyteDB](https://github.com/yugabyte/yugabytedb-mcp-server) - MCP server to interact with your [YugabyteDB](https://www.yugabyte.com/) database.
 * [Zapier](https://zapier.com/mcp) - A platform to connect your AI agents to 8,000 apps instantly.
