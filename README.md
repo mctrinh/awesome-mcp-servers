@@ -84,6 +84,7 @@ Production-ready MCP implementations maintained by platform providers.
 * [Firecrawl](https://github.com/mendableai/firecrawl-mcp-server) - A platform to extract web data using [Firecrawl](https://firecrawl.dev).
 * [Fireproof](https://github.com/fireproof-storage/mcp-database-server) - MCP server offering an immutable ledger database with live synchronization.
 * [ForeverVM](https://github.com/jamsocket/forevervm/tree/main/javascript/mcp-server) - MCP server for ForeverVM, enabling Claude to execute code in a Python REPL.
+* [Formo](https://formo.so) - Official hosted, read-only MCP server for product and onchain analytics, including SQL, funnels, retention, revenue, users, and wallet profiles. [Docs](https://docs.formo.so/mcp/overview).
 * [Github](https://github.com/github/github-mcp-server) - GitHub's official MCP server
 * [GibsonAI](https://github.com/GibsonAI/mcp) - A platform for AI-powered cloud databases to build, migrate, and deploy database instances with AI.
 * [Gitea](https://gitea.com/gitea/gitea-mcp) - Interact with Gitea instances with MCP.
