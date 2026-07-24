@@ -13,6 +13,7 @@ These servers aim to demonstrate MCP features and the [TypeScript MCP SDK](https
 * [Git](https://github.com/modelcontextprotocol/servers/tree/main/src/git) - MCP server for reading, searching, and manipulating Git repositories via MCP.
 * [GitHub](https://github.com/github/github-mcp-server) - GitHub's official MCP server connects AI tools directly to GitHub's platform.
 * [Memory](https://github.com/modelcontextprotocol/servers/tree/main/src/memory) - A persistent memory system built on a knowledge graph.
+* [PostEverywhere](https://github.com/posteverywhere/mcp) - MCP server to schedule and publish social posts to 11 platforms (X, Instagram, TikTok, YouTube, LinkedIn and more) with media, campaigns, analytics and AI captions.
 * [Sequential Thinking](https://github.com/modelcontextprotocol/servers/tree/main/src/sequentialthinking) - MCP server that supports dynamic, reflective problem-solving through structured thought sequences.
 * [Time](https://github.com/modelcontextprotocol/servers/tree/main/src/time) - A utility for time and timezone conversion using MCP.
 
