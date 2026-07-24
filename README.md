@@ -13,7 +13,6 @@ These servers aim to demonstrate MCP features and the [TypeScript MCP SDK](https
 * [Git](https://github.com/modelcontextprotocol/servers/tree/main/src/git) - MCP server for reading, searching, and manipulating Git repositories via MCP.
 * [GitHub](https://github.com/github/github-mcp-server) - GitHub's official MCP server connects AI tools directly to GitHub's platform.
 * [Memory](https://github.com/modelcontextprotocol/servers/tree/main/src/memory) - A persistent memory system built on a knowledge graph.
-* [PostEverywhere](https://github.com/posteverywhere/mcp) - MCP server to schedule and publish social posts to 11 platforms (X, Instagram, TikTok, YouTube, LinkedIn and more) with media, campaigns, analytics and AI captions.
 * [Sequential Thinking](https://github.com/modelcontextprotocol/servers/tree/main/src/sequentialthinking) - MCP server that supports dynamic, reflective problem-solving through structured thought sequences.
 * [Time](https://github.com/modelcontextprotocol/servers/tree/main/src/time) - A utility for time and timezone conversion using MCP.
 
@@ -459,6 +458,7 @@ A growing collection of community-developed servers highlights the diverse ways 
 * [Placid.app](https://github.com/felores/placid-mcp-server) - Generate image and video creatives using Placid.app templates via MCP.
 * [Plane](https://github.com/kelvin6365/plane-mcp-server) - MCP server to manage projects and issues through Plane's API.
 * [Playwright](https://github.com/executeautomation/mcp-playwright) - MCP server for browser automation and web scraping using Playwright.
+* [PostEverywhere](https://github.com/posteverywhere/mcp) - MCP server to schedule and publish social posts to 11 platforms (X, Instagram, TikTok, YouTube, LinkedIn and more) with media, campaigns, analytics and AI captions.
 * [Postman](https://github.com/shannonlal/mcp-postman) - Run Postman Collections locally via Newman; execute tests and return results through MCP.
 * [Prefect](https://github.com/allen-munsch/mcp-prefect) - MCP server for workflow orchestration and ELT/ETL with Prefect Server and Prefect Cloud [https://www.prefect.io/] using the `prefect` Python client.
 * [Productboard](https://github.com/kenjihikmatullah/productboard-mcp) - MCP server to integrate Productboard API into agent workflows via MCP.
