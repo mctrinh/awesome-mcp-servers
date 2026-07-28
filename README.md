@@ -157,6 +157,7 @@ Production-ready MCP implementations maintained by platform providers.
 * [Raygun](https://github.com/MindscapeHQ/mcp-server-raygun) - MCP server to interact with your crash reporting and real-time monitoring data on your Raygun account.
 * [Rember](https://github.com/rember/rember-mcp) - A tool to create spaced repetition flashcards in Rember to remember anything you learn in your chats.
 * [Riza](https://github.com/riza-io/riza-mcp) - An arbitrary code execution and tool-use platform for LLMs by Riza.
+* [RouterBase MCP](https://github.com/zenlee123/routerbase-mcp) - MCP server for model discovery, pricing lookup, and OpenAI-compatible chat completions through [routerbase](https://routerbase.com).
 * [Root Signals](https://github.com/root-signals/root-signals-mcp) - MCP server to improve and quality control your outputs with evaluations using LLM-as-Judge.
 * [Search1API](https://github.com/fatwang2/search1api-mcp) - An API for search, crawling, and sitemaps.
 * [ScreenshotOne](https://github.com/screenshotone/mcp/) - A tool to render website screenshots with [ScreenshotOne](https://screenshotone.com/)
