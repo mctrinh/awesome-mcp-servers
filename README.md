@@ -304,6 +304,7 @@ A growing collection of community-developed servers highlights the diverse ways 
 * [FireCrawl](https://github.com/vrknetha/mcp-server-firecrawl) - An advanced web scraping server with JavaScript rendering, PDF support, and smart rate limiting.
 * [FlightRadar24](https://github.com/sunsetcoder/flightradar24-mcp-server) - A Claude Desktop MCP server that helps track flights in real-time using Flightradar24 data.
 * [freqtrade-mcp](https://github.com/kukapay/freqtrade-mcp) - MCP server that integrates with the Freqtrade cryptocurrency trading bot.
+* [GATRA](https://github.com/gatra-io/gatra) - Zero-Trust security reverse proxy and control plane for AI agents and Model Context Protocol (MCP) servers.
 * [Ghost](https://github.com/MFYDev/ghost-mcp) - MCP server for interacting with Ghost CMS through LLM interfaces like Claude.
 * [Git](https://github.com/geropl/git-mcp-go) - MCP server that allows LLMs to interact with a local Git repository, including optional push support.
 * [Github Actions](https://github.com/ko1ynnky/github-actions-mcp-server) - MCP server for interacting with GitHub Actions.
