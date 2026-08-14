@@ -447,6 +447,7 @@ A growing collection of community-developed servers highlights the diverse ways 
 * [OpenRPC](https://github.com/shanejonas/openrpc-mpc-server) - MCP server for discovering and interacting with JSON-RPC APIs via [OpenRPC](https://open-rpc.org).
 * [OpenWeather](https://github.com/mschneider82/mcp-openweather) - MCP server to query current and forecast weather from OpenWeatherMap API.
 * [Open Strategy Partners Marketing Tools](https://github.com/open-strategy-partners/osp_marketing_tools) - MCP server offering product marketing tools such as content editing, value maps, and positioning.
+* [Orkas VideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio) - Local-first MCP server and CLI for planning and rendering videos from editable timeline files.
 * [Oura Ring](https://github.com/rajvirtual/oura-mcp-server) - MCP server to access and analyze health metrics from Oura Ring data.
 * [Outline](https://github.com/Vortiago/mcp-outline) - MCP server for interacting with [Outline](https://www.getoutline.com) knowledge bases; supports document search, creation, management, and collaboration.
 * [pancakeswap-poolspy-mcp](https://github.com/kukapay/pancakeswap-poolspy-mcp) - MCP server tracking newly created liquidity pools on PancakeSwap.
