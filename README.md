@@ -141,6 +141,7 @@ Production-ready MCP implementations maintained by platform providers.
 * [Oxylabs](https://github.com/oxylabs/oxylabs-mcp) - An API to scrape websites using Oxylabs Web API, with support for dynamic rendering and structured data extraction.
 * [Paddle](https://github.com/PaddleHQ/paddle-mcp-server) - MCP server to interact with the Paddle API for managing product catalog, billing, subscriptions, and reports.
 * [Pagos](https://github.com/pagos-ai/pagos-mcp) - MCP server to query Credit Card BIN Data via the Pagos API, with more features planned.
+* [Palisade DMARC Agent](https://github.com/palisadeemail/palisade-mcp) - MCP server for managing DMARC, SPF, DKIM, BIMI, MTA-STS, DNS, and email-authentication remediation.
 * [PayPal](https://mcp.paypal.com) - An official MCP server for PayPal.
 * [Perplexity](https://github.com/ppl-ai/modelcontextprotocol) - MCP server connecting to Perplexity's Sonar API for real-time web-wide research in conversational AI.
 * [Pinecone](https://github.com/pinecone-io/pinecone-mcp) - A developer MCP server assisting with documentation search and data management within the Pinecone environment.
