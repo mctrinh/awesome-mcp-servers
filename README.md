@@ -196,6 +196,7 @@ A growing collection of community-developed servers highlights the diverse ways 
 * [A2A](https://github.com/GongRzhe/A2A-MCP-Server) -  MCP server that bridges the MCP with the Agent-to-Agent (A2A) protocol, enabling MCP-compatible AI assistants (like Claude) to seamlessly interact with A2A agents.
 * [Ableton Live](https://github.com/Simon-Kansara/ableton-live-mcp-server) - MCP server to control Ableton Live.
 * [Ableton](https://github.com/ahujasid/ableton-mcp) - An Ableton integration allowing prompt-enabled music creation.
+* [Agent QA](https://github.com/vostride/agent-qa) - Local stdio MCP server for authoring, validating, running, and inspecting natural-language web and mobile regression tests with persistent test memory.
 * [Airbnb](https://github.com/openbnb-org/mcp-server-airbnb) - MCP server providing tools to search Airbnb and retrieve listing details.
 * [AI Agent Marketplace Index](https://github.com/AI-Agent-Hub/ai-agent-marketplace-index-mcp) - MCP server to search over 5,000 AI agents and tools from [AI Agent Marketplace Index](http://www.deepnlp.org/store/ai-agent) and monitor AI agent traffic.
 * [Algorand](https://github.com/GoPlausible/algorand-mcp) - A comprehensive MCP server for interacting with the Algorand blockchain through 40+ tools and access to 60+ resources.
