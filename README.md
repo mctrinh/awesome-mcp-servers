@@ -198,6 +198,7 @@ A growing collection of community-developed servers highlights the diverse ways 
 * [Ableton](https://github.com/ahujasid/ableton-mcp) - An Ableton integration allowing prompt-enabled music creation.
 * [Airbnb](https://github.com/openbnb-org/mcp-server-airbnb) - MCP server providing tools to search Airbnb and retrieve listing details.
 * [AI Agent Marketplace Index](https://github.com/AI-Agent-Hub/ai-agent-marketplace-index-mcp) - MCP server to search over 5,000 AI agents and tools from [AI Agent Marketplace Index](http://www.deepnlp.org/store/ai-agent) and monitor AI agent traffic.
+* [Agent QA](https://github.com/vostride/agent-qa) - MCP server for authoring, running, and triaging natural-language web and mobile application tests.
 * [Algorand](https://github.com/GoPlausible/algorand-mcp) - A comprehensive MCP server for interacting with the Algorand blockchain through 40+ tools and access to 60+ resources.
 * [Airflow](https://github.com/yangkyeongmo/mcp-server-apache-airflow) - MCP server that connects to [Apache Airflow](https://airflow.apache.org/) via its official Python client.
 * [Airtable](https://github.com/domdomegg/airtable-mcp-server) - MCP server for read and write access to [Airtable](https://airtable.com/) databases, including schema inspection.
