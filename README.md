@@ -622,3 +622,4 @@ Additional MCP resources.
 * [r/modelcontextprotocol](https://www.reddit.com/r/modelcontextprotocol) - A dedicated subreddit for exploring Model Context Protocol ideas, help, and showcases.
 * [Smithery](https://smithery.ai/) - A searchable registry of MCP servers to help LLM agents find the right tools.
 * [Toolbase](https://gettoolbase.ai) - A desktop app for managing MCP servers and tools with a no-code interface.
+- [DSHCorrectover/ccs-mcp-server](https://github.com/DSHCorrectover/ccs-mcp-server) 📇 🏠 🍎 🪟 🐧 - CCS runtime verification MCP server: 7-dimension validation (Structure/Schema/Latency/Cost/Identity/Integrity/Security) for AI agent tool calls with sub-millisecond OOP. Ed25519-signed evidence receipts, blocks RCE/SSRF/credential exfiltration. Zero dependencies, fail-closed, fully offline. IETF Internet-Draft. `npx ccs-mcp-server`.
