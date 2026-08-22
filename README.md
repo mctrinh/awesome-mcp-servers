@@ -555,6 +555,7 @@ A growing collection of community-developed servers highlights the diverse ways 
 * [YNAB](https://github.com/ChuckBryan/ynabmcpserver) - MCP server to integrate with YNAB (You Need A Budget) for secure financial data access and analysis.
 * [YouTube](https://github.com/Klavis-AI/klavis/tree/main/mcp_servers/youtube) - MCP server to extract YouTube video metadata with proxy support.
 * [YouTube](https://github.com/ZubeidHendricks/youtube-mcp-server) - MCP server to manage YouTube videos, Shorts, and access channel analytics.
+* [YouTube Transcript](https://github.com/ZeroPointRepo/youtube-mcp) - MCP server to fetch YouTube transcripts, search videos and channels, and extract playlists, with no Google quota or OAuth.
 * [YouTube Video Summarizer](https://github.com/nabid-pf/youtube-video-summarizer-mcp) - MCP server to summarize long YouTube videos into concise overviews.
 * [Zoom](https://github.com/Prathamesh0901/zoom-mcp-server/tree/main) - MCP server to create, read, update, and delete Zoom meetings via the Zoom API.
 
