@@ -458,6 +458,7 @@ A growing collection of community-developed servers highlights the diverse ways 
 * [Placid.app](https://github.com/felores/placid-mcp-server) - Generate image and video creatives using Placid.app templates via MCP.
 * [Plane](https://github.com/kelvin6365/plane-mcp-server) - MCP server to manage projects and issues through Plane's API.
 * [Playwright](https://github.com/executeautomation/mcp-playwright) - MCP server for browser automation and web scraping using Playwright.
+* [Pocket Drives](https://github.com/RevList/pocket-drives-mcp) - Remote MCP to search peer-to-peer luxury, exotic, and EV rentals from independent hosts. Booking finishes in the iOS app. Streamable HTTP at https://pocketdrives.ai/mcp.
 * [Postman](https://github.com/shannonlal/mcp-postman) - Run Postman Collections locally via Newman; execute tests and return results through MCP.
 * [Prefect](https://github.com/allen-munsch/mcp-prefect) - MCP server for workflow orchestration and ELT/ETL with Prefect Server and Prefect Cloud [https://www.prefect.io/] using the `prefect` Python client.
 * [Productboard](https://github.com/kenjihikmatullah/productboard-mcp) - MCP server to integrate Productboard API into agent workflows via MCP.
