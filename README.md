@@ -22,6 +22,8 @@ These servers aim to demonstrate MCP features and the [TypeScript MCP SDK](https
 
 Production-ready MCP implementations maintained by platform providers.
 
+* [SandBase CLI](https://github.com/sandbaseai/cli) - An open-source command-line MCP bridge providing one interface to 2,000+ AI models.
+
 * [21st.dev Magic](https://github.com/21st-dev/magic-mcp) - MCP server for generating crafted UI components inspired by top 21st.dev design engineers.
 * [Actors MCP Server](https://apify.com/apify/actors-mcp-server) - A platform leveraging 3,000+ pre-built cloud tools to extract data from websites, social media, e-commerce, search engines, and more.
 * [Adfin](https://github.com/Adfin-Engineering/mcp-server-adfin) - A platform to manage payments, invoicing, and accounting reconciliations through [Adfin](https://www.adfin.com/).
