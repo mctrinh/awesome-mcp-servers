@@ -272,6 +272,7 @@ A growing collection of community-developed servers highlights the diverse ways 
 * [Deepseek_R1](https://github.com/66julienmartin/MCP-server-Deepseek_R1) - MCP server implementation connecting Claude Desktop with DeepSeek's R1 and V3 models.
 * [deepseek-thinker-mcp](https://github.com/ruixingshi/deepseek-thinker-mcp) - MCP server providing DeepSeek reasoning content to MCP-enabled AI clients, including access via API or local Ollama.
 * [Descope](https://github.com/descope-sample-apps/descope-mcp-server) - MCP server that integrates with [Descope](https://descope.com) to search audit logs, manage users, and more.
+* [DeskMCP](https://github.com/edmen12/deskmcp) - Open-source Windows MCP policy gateway for controlled ChatGPT access to local files and gateway-owned terminal sessions, with workspace-scoped permissions, stale-write protection, and metadata-only auditing.
 * [DevDb](https://github.com/damms005/devdb-vscode?tab=readme-ov-file#mcp-configuration) - MCP server that runs inside the IDE, enabling database connections to MySQL, PostgreSQL, SQLite, and MSSQL.
 * [Dicom](https://github.com/ChristianHinge/dicom-mcp) - MCP server for querying and retrieving medical images and parsing dicom-encapsulated documents. 
 * [Dify](https://github.com/YanxingLiu/dify-mcp-server) - A simple implementation of MCP server for dify workflows.
