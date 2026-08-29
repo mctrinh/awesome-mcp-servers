@@ -175,6 +175,7 @@ Production-ready MCP implementations maintained by platform providers.
 * [Tuning Engines](https://github.com/cerebrixos-org/tuning-engines-cli) - Govern model, agent, skill, and MCP workflows with policy controls, approvals, traces, and usage analytics. Install with `npx -y --package tuningengines-cli@latest te mcp serve`.
 * [UnifAI](https://github.com/unifai-network/unifai-mcp-server) - A platform to dynamically search and call tools using [UnifAI Network](https://unifai.network)
 * [Unstructured](https://github.com/Unstructured-IO/UNS-MCP) - A system to set up and interact with your unstructured data processing workflows on the [Unstructured Platform](https://unstructured.io)
+* [UIZZE](https://github.com/uizze/uizze) - Authenticated MCP for coding agents with `find_ui_references` and `find_ui_materials` across 800,000+ real web and iOS screens. Free local agent skills are available separately.
 * [Upstash](https://github.com/upstash/mcp-server) - A service to manage Redis databases and run Redis commands on Upstash [Upstash](https://upstash.com/) with natural language.
 * [Vectorize](https://github.com/vectorize-io/vectorize-mcp-server/) - MCP server for advanced retrieval, Private Deep Research, Anything-to-Markdown file extraction, and text chunking using [Vectorize](https://vectorize.io).
 * [Verbwire](https://github.com/verbwire/verbwire-mcp-server) - A platform to deploy smart contracts, mint NFTs, manage IPFS storage, and more through the Verbwire API.
