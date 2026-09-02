@@ -48,6 +48,7 @@ Production-ready MCP implementations maintained by platform providers.
 * [BICScan](https://github.com/ahnlabio/bicscan-mcp) - MCP server providing risk scores and asset holdings for EVM blockchain addresses and domain names.
 * [Bitrise](https://github.com/bitrise-io/bitrise-mcp) - MCP server to interact with your builds, CI pipelines, and more via chat.
 * [Box](https://github.com/box-community/mcp-server-box) - MCP server to interact with the Intelligent Content Management platform through Box AI.
+* [BulkPublish](https://app.bulkpublish.com/docs) - MCP server for AI-agent social media workflows: create, adapt, schedule, publish, and analyze content across connected channels through hosted Streamable HTTP or the local `@bulkpublish/mcp-server` package.
 * [Browserbase](https://github.com/browserbase/mcp-server-browserbase) - MCP server automating cloud-based browser interactions including navigation, data extraction, and form filling.
 * [BrowserStack](https://github.com/browserstack/mcp-server) - A platform to access BrowserStack's [Test Platform](https://www.browserstack.com/test-platform) for debugging, writing and fixing tests, accessibility testing, and more.
 * [Burp Suite](https://github.com/PortSwigger/mcp-server) - MCP server extension enabling AI clients to connect with [Burp Suite](https://portswigger.net) for security testing.
