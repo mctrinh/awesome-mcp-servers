@@ -363,6 +363,7 @@ A growing collection of community-developed servers highlights the diverse ways 
 * [Langflow-DOC-QA-SERVER](https://github.com/GongRzhe/Langflow-DOC-QA-SERVER) - MCP server for document question-answering powered by Langflow, providing a simple interface for querying documents via a Langflow backend.
 * [Lark (Feishu)](https://github.com/kone-net/mcp_server_lark) - MCP server for interacting with Lark (Feishu) services including sheets, docs, and messages.
 * [Lightdash](https://github.com/syucream/lightdash-mcp-server) - MCP server for interacting with [Lightdash](https://www.lightdash.com/), a modern BI and analytics tool..
+* [Lodestar Stamp](https://lodestarstamp.com) - Agent trust layer: a dated receipt on a named entity. REST lookup plus MCP discovery card. We attest; we do not approve the booking. Lookup free through 2026.
 * [lsp-mcp](https://github.com/Tritlo/lsp-mcp) - MCP server for interfacing with Language Servers using LSP, supporting code hovers, completions, and code actions.
 * [Linear](https://github.com/tacticlaunch/mcp-linear) - MCP server for interacting with Linear project management APIs.
 * [Linear](https://github.com/jerhadf/linear-mcp-server) - MCP server for managing Linear issues including creation, search, and updates.
