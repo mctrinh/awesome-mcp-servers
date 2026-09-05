@@ -68,6 +68,7 @@ Production-ready MCP implementations maintained by platform providers.
 * [CRIC Wuye AI](https://github.com/wuye-ai/mcp-server-wuye-ai) - A platform that connects with CRIC Wuye AI, an intelligent assistant for the property management industry.
 * [Dart](https://github.com/its-dart/dart-mcp-server) - A platform to interact with tasks, docs, and projects in [Dart](https://itsdart.com), an AI-native project management tool.
 * [DataHub](https://github.com/acryldata/mcp-server-datahub) - MCP server to search data assets, explore lineage, run SQL queries, and more using [DataHub](https://datahub.com/) metadata.
+* [DDMarketer](https://github.com/CodePhantom-1/ddmarketer-mcp) - A platform to query 950+ validated SaaS gap dossiers mined from real user complaints. Remote server, free tier, no key needed for search.
 * [DexPaprika](https://github.com/coinpaprika/dexpaprika-mcp) - MCP server to access real-time DEX data, liquidity pools, token information, and trading analytics across blockchain networks.
 * [DevHub](https://github.com/devhub/devhub-cms-mcp) - A platform to manage and utilize website content via the [DevHub](https://www.devhub.com) CMS platform.
 * [DevRev](https://github.com/devrev/mcp-server) - MCP server to integrate with DevRev APIs for searching and managing objects in the DevRev Knowledge Graph.
