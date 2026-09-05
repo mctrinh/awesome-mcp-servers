@@ -435,6 +435,7 @@ A growing collection of community-developed servers highlights the diverse ways 
 * [OceanBase](https://github.com/yuanoOo/oceanbase_mcp_server) - MCP server providing secure interaction with OceanBase databases.
 * [Office-PowerPoint-MCP-Server](https://github.com/GongRzhe/Office-PowerPoint-MCP-Server) - MCP server for creating, reading, and manipulating Microsoft PowerPoint documents.
 * [Office-Visio-MCP-Server](https://github.com/GongRzhe/Office-Visio-MCP-Server) - MCP server for creating, reading, and manipulating Microsoft Visio documents.
+* [Office Suite](https://github.com/theluckystrike/mcp-servers) - Bundle of MCP servers for freelance and back-office work: invoices, spreadsheets, PDFs, time tracking, expense tracking, resumes, and contracts. Hosted option at [mcp.zovo.one](https://mcp.zovo.one).
 * [Office-Word-MCP-Server](https://github.com/GongRzhe/Office-Word-MCP-Server) - MCP server for creating, reading, and manipulating Microsoft Word documents. 
 * [Okta](https://github.com/kapilduraphe/okta-mcp-server) - MCP server to interact with the Okta API for identity and access management.
 * [OneNote](https://github.com/rajvirtual/MCP-Servers/tree/master/onenote) - MCP server connecting to Microsoft OneNote via Microsoft Graph API; read and create notebooks, sections, and pages.
