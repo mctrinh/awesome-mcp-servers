@@ -452,6 +452,7 @@ A growing collection of community-developed servers highlights the diverse ways 
 * [pancakeswap-poolspy-mcp](https://github.com/kukapay/pancakeswap-poolspy-mcp) - MCP server tracking newly created liquidity pools on PancakeSwap.
 * [Pandoc](https://github.com/vivekVells/mcp-pandoc) - MCP server for seamless document format conversion (Markdown, HTML, PDF, DOCX, CSV, etc.) using Pandoc.
 * [Paradex MCP](https://github.com/sv/mcp-paradex-py) - MCP native server to interact with the Paradex platform, including full trading features.
+* [ParlayAPI](https://github.com/JacobiusMakes/parlay-api-mcp) - Python stdio MCP server for sports odds, player props, public event discovery, and account usage; account data tools require each user's own API key and allowances.
 * [Phone MCP](https://github.com/hao-cyber/phone-mcp) - Plugin enabling AI agents to control Android phones for tasks like playing music, making calls, and sending texts.
 * [PIF](https://github.com/hungryrobot1/MCP-PIF) - Personal Intelligence Framework providing tools for file operations, structured reasoning, and journal-based documentation to support evolving human-AI collaboration.
 * [Pinecone](https://github.com/sirmews/mcp-pinecone) - MCP server to search and upload records to Pinecone, enabling retrieval-augmented generation (RAG) with Pinecone's Inference API.
