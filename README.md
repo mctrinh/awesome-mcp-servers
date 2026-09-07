@@ -447,6 +447,7 @@ A growing collection of community-developed servers highlights the diverse ways 
 * [OpenRPC](https://github.com/shanejonas/openrpc-mpc-server) - MCP server for discovering and interacting with JSON-RPC APIs via [OpenRPC](https://open-rpc.org).
 * [OpenWeather](https://github.com/mschneider82/mcp-openweather) - MCP server to query current and forecast weather from OpenWeatherMap API.
 * [Open Strategy Partners Marketing Tools](https://github.com/open-strategy-partners/osp_marketing_tools) - MCP server offering product marketing tools such as content editing, value maps, and positioning.
+* [OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) -  MCP server over recorded coding-agent runs: read what an earlier run really sent, ran and changed, replay it offline with the network off, or fork it from a checkpoint onto a different model.
 * [Oura Ring](https://github.com/rajvirtual/oura-mcp-server) - MCP server to access and analyze health metrics from Oura Ring data.
 * [Outline](https://github.com/Vortiago/mcp-outline) - MCP server for interacting with [Outline](https://www.getoutline.com) knowledge bases; supports document search, creation, management, and collaboration.
 * [pancakeswap-poolspy-mcp](https://github.com/kukapay/pancakeswap-poolspy-mcp) - MCP server tracking newly created liquidity pools on PancakeSwap.
@@ -557,7 +558,6 @@ A growing collection of community-developed servers highlights the diverse ways 
 * [YouTube](https://github.com/ZubeidHendricks/youtube-mcp-server) - MCP server to manage YouTube videos, Shorts, and access channel analytics.
 * [YouTube Video Summarizer](https://github.com/nabid-pf/youtube-video-summarizer-mcp) - MCP server to summarize long YouTube videos into concise overviews.
 * [Zoom](https://github.com/Prathamesh0901/zoom-mcp-server/tree/main) - MCP server to create, read, update, and delete Zoom meetings via the Zoom API.
-
 
 ## Frameworks for Servers
 
