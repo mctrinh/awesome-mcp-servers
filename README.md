@@ -496,6 +496,7 @@ A growing collection of community-developed servers highlights the diverse ways 
 * [Shodan MCP](https://github.com/Hexix23/shodan-mcp) - MCP server to interact with [Shodan](https://www.shodan.io/) for internet-connected device discovery and analysis.
 * [Shopify](https://github.com/GeLi2001/shopify-mcp) - MCP server to interact with the Shopify API, including orders, products, and customer data.
 * [Siri Shortcuts](https://github.com/dvcrn/mcp-server-siri-shortcuts) - MCP server to interact with Siri Shortcuts on macOS, exposing all Shortcuts as tools.
+* [Site Passport](https://github.com/renduples/sitepassport-mcp) - MCP server that checks whether a WordPress site (or any site) is ready to be safely operated by AI agents: llms.txt, AI-crawler robots.txt directives, schema.org markup, and a WebMCP manifest. Live-checked against the site itself, never self-reported. Free, no API key.
 * [Slack](https://github.com/korotovsky/slack-mcp-server) - MCP server to interact with Slack Workspaces using Stdio or SSE, without needing workspace admin permissions.
 * [Snowflake](https://github.com/isaacwasserman/mcp-snowflake-server) - MCP server to interact with Snowflake databases for secure and controlled data operations.
 * [Solver](https://github.com/szeider/mcp-solver) - MCP server to solve constraint satisfaction and optimization problems. 
