@@ -127,6 +127,7 @@ Production-ready MCP implementations maintained by platform providers.
 * [Milvus](https://github.com/zilliztech/mcp-server-milvus) - A tool to search, query, and interact with data in your Milvus vector database.
 * [Momento](https://github.com/momentohq/mcp-momento) - A caching solution that quickly improves performance, reduces costs, and handles load at scale.
 * [MongoDB](https://github.com/mongodb-js/mongodb-mcp-server) - MCP server supporting both MongoDB Community Server and MongoDB Atlas.
+* [Motomarks](https://motomarks.io/docs/mcp) - Official hosted MCP for published car manufacturer logos. Search brands and return badge, wordmark, and full logo CDN URLs for dealer and marketplace tools.
 * [MotherDuck](https://github.com/motherduckdb/mcp-server-motherduck) - A tool to query and analyze data with MotherDuck and local DuckDB.
 * [Needle](https://github.com/needle-ai/needle-mcp) - A production-ready RAG tool out of the box to search and retrieve data from your own documents.
 * [Neo4j](https://github.com/neo4j-contrib/mcp-neo4j/) - A Neo4j graph database server supporting schema, read/write Cypher queries, and graph database-backed memory.
