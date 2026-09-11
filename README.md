@@ -129,6 +129,7 @@ Production-ready MCP implementations maintained by platform providers.
 * [MongoDB](https://github.com/mongodb-js/mongodb-mcp-server) - MCP server supporting both MongoDB Community Server and MongoDB Atlas.
 * [MotherDuck](https://github.com/motherduckdb/mcp-server-motherduck) - A tool to query and analyze data with MotherDuck and local DuckDB.
 * [Needle](https://github.com/needle-ai/needle-mcp) - A production-ready RAG tool out of the box to search and retrieve data from your own documents.
+* [Neither](https://github.com/stonianua/neither-mcp) - Project context your AI can query through MCP. Selected notes/docs for Cursor or Claude Desktop; retrieve with source evidence. Local stdio, Node 20+. Install: `npx -y @neitherai/mcp-server`. Start: https://www.neither.online/start/?product=dev
 * [Neo4j](https://github.com/neo4j-contrib/mcp-neo4j/) - A Neo4j graph database server supporting schema, read/write Cypher queries, and graph database-backed memory.
 * [Neon](https://github.com/neondatabase/mcp-server-neon) - MCP server to interact with the Neon serverless Postgres platform.
 * [Netlify](https://docs.netlify.com/welcome/build-with-ai/netlify-mcp-server/) - A platform to create, build, deploy, and manage your websites with the Netlify web platform.
