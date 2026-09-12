@@ -390,6 +390,7 @@ A growing collection of community-developed servers highlights the diverse ways 
 * [MCP Proxy Server](https://github.com/TBXark/mcp-proxy) - An MCP proxy server that aggregates multiple MCP servers into a single HTTP endpoint.
 * [mcp-salesforce](https://github.com/lciesielski/mcp-salesforce-example) - MCP server for interacting with Salesforce APIs for basic operations.
 * [MCP Server Creator](https://github.com/GongRzhe/MCP-Server-Creator) - An MCP meta-server for generating new FastMCP server code and configurations dynamically.
+* [MCP Selection Lab](https://agenttrustlab.com) - Metadata-only MCP tool-selection analysis and public selection reports for evaluating routing ambiguity without invoking target business tools. Hosted at `https://mcp-selection-lab-production.up.railway.app/mcp`.
 * [mem0-mcp](https://github.com/mem0ai/mem0-mcp) - MCP server for managing coding preferences and workflows with Mem0.
 * [Membase](https://github.com/unibaseio/membase-mcp) - MCP server for distributed memory management and retrieval.
 * [MetaTrader MCP](https://github.com/ariadng/metatrader-mcp-server) - MCP server for executing trades via MetaTrader 5.
