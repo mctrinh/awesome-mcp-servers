@@ -504,6 +504,7 @@ A growing collection of community-developed servers highlights the diverse ways 
 * [Spotify](https://github.com/varunneal/spotify-mcp) - MCP server to control and interact with Spotify for music playback and user operations.
 * [Standard Korean Dictionary](https://github.com/privetin/stdict) - MCP server to search entries in the Standard Korean Dictionary via API.
 * [Starwind UI](https://github.com/Boston343/starwind-ui-mcp/) - MCP server to explore commands, docs, and components of the Starwind UI open-source Astro framework.
+* [Statsnet](https://github.com/usenetstate/statsnet-mcp) - Background check any company in the world: registration, executives, courts and finances. Remote MCP: https://statsnet.co/mcp
 * [Strava](https://github.com/r-huijts/strava-mcp) - MCP server to connect with the Strava API for activity tracking, profiles, segments, and route data.
 * [Stripe](https://github.com/atharvagupta2003/mcp-stripe) - MCP server to integrate with Stripe for handling payments, customers, and refunds.
 * [ShaderToy](https://github.com/wilsonchenghy/ShaderToy-MCP) - MCP server to interact with the ShaderToy API, enabling LLMs to learn from and create GLSL shaders.
