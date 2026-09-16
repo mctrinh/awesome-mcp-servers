@@ -345,6 +345,7 @@ A growing collection of community-developed servers highlights the diverse ways 
 * [iOS Simulator](https://github.com/InditexTech/mcp-server-simulator-ios-idb) - MCP server that allows LLMs to interact with iOS simulators (iPhone, iPad) using natural language commands.
 * [iTerm MCP](https://github.com/ferrislucas/iterm-mcp) - MCP server for integrating with the iTerm2 terminal emulator on macOS to execute and monitor terminal commands.
 - [iTerm MCP Server](https://github.com/rishabkoul/iTerm-MCP-Server) - MCP server implementation for iTerm2, with support for managing multiple terminal sessions.
+- [MeetStream](https://github.com/meetstream-ai/meetstream-mcp) - Send AI bots into Zoom, Google Meet and Microsoft Teams to record, transcribe and summarize meetings. 19 tools for bot lifecycle, transcripts, per-participant audio, live chat and calendar scheduling. Hosted at `https://mcp.meetstream.ai/mcp` or `npx -y @meetstream/mcp`.
 * [JavaFX](https://github.com/mcpso/mcp-server-javafx) - MCP server for drawing and rendering graphics using a JavaFX canvas.
 * [JDBC](https://github.com/quarkiverse/quarkus-mcp-servers/tree/main/jdbc) - MCP server for interacting with any JDBC-compatible database. Supports query, insert, update, delete operations on MySQL, PostgreSQL, Oracle, SQL Server, SQLite, and more.
 * [JMeter](https://github.com/QAInsights/jmeter-mcp-server) - MCP server for running load tests using Apache JMeter through AI assistants.
