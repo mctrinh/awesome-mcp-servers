@@ -86,6 +86,7 @@ Production-ready MCP implementations maintained by platform providers.
 * [ForeverVM](https://github.com/jamsocket/forevervm/tree/main/javascript/mcp-server) - MCP server for ForeverVM, enabling Claude to execute code in a Python REPL.
 * [Github](https://github.com/github/github-mcp-server) - GitHub's official MCP server
 * [GibsonAI](https://github.com/GibsonAI/mcp) - A platform for AI-powered cloud databases to build, migrate, and deploy database instances with AI.
+* [geolint](https://github.com/iliasabk/geolint) - Open-source "ESLint for AI search" — audits robots.txt across 51 AI crawler tokens, llms.txt, structured data and citability (52 rules, 0-100 score, fix per finding).
 * [Gitea](https://gitea.com/gitea/gitea-mcp) - Interact with Gitea instances with MCP.
 * [Gitee](https://github.com/oschina/mcp-gitee) - MCP server for Gitee API integration, including repository, issue, and pull request management.
 * [Glean](https://github.com/gleanwork/mcp-server) - A platform for enterprise search and chat using Glean's API.
