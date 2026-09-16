@@ -163,6 +163,7 @@ Production-ready MCP implementations maintained by platform providers.
 * [Semgrep](https://github.com/semgrep/mcp) - MCP server enabling AI agents to secure code with [Semgrep](https://semgrep.dev/).
 * [SingleStore](https://github.com/singlestore-labs/mcp-server-singlestore) - MCP server to interact with the SingleStore database platform.
 * [Snyk](https://github.com/snyk/snyk-ls/blob/main/mcp_extension/README.md) - A tool to enhance security posture by embedding Snyk vulnerability scanning directly into agentic workflows.
+* [Social media studio](https://so-me.studio) - Hosted MCP server for drafting, scheduling, and publishing social posts, managing media, and reading analytics. [Setup](https://docs.so-me.studio/mcp/overview).
 * [StarRocks](https://github.com/StarRocks/mcp-server-starrocks) - MCP server to interact with StarRocks.
 * [Stripe](https://github.com/stripe/agent-toolkit) - MCP server to interact with Stripe API.
 * [Tavily](https://github.com/tavily-ai/tavily-mcp) - A search engine for AI agents (search + extract) powered by Tavily [Tavily](https://tavily.com/)
