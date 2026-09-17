@@ -490,6 +490,7 @@ A growing collection of community-developed servers highlights the diverse ways 
 * [Salesforce MCP](https://github.com/smn2gnt/MCP-Salesforce) - MCP server to interact with Salesforce data and metadata.
 * [Scholarly](https://github.com/adityak74/mcp-scholarly) - MCP server to search for scholarly and academic articles.
 * [scrapling-fetch](https://github.com/cyberchitta/scrapling-fetch-mcp) - MCP server to fetch HTML or Markdown from bot-protected websites using Scrapling.
+* [Screenpipe](https://github.com/screenpipe/screenpipe) - Source-available MCP server for searching locally captured screen text and audio transcripts; requires a running Screenpipe instance. Run with `npx -y screenpipe-mcp@latest`.
 * [SearXNG](https://github.com/ihor-sokoliuk/mcp-searxng) - MCP server to perform meta-searches via [SearXNG](https://docs.searxng.org)
 * [SEC EDGAR](https://github.com/stefanoamorelli/sec-edgar-mcp) - MCP server to access financial filings and data from the [SEC](https://www.sec.gov/)'s EDGAR database.
 * [ServiceNow](https://github.com/osomai/servicenow-mcp) - MCP server to interact with ServiceNow instances for workflow and IT service management.
