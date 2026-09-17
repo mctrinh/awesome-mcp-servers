@@ -214,7 +214,7 @@ A growing collection of community-developed servers highlights the diverse ways 
 * [ArangoDB](https://github.com/ravenwits/mcp-server-arangodb) - MCP server for database interaction using [ArangoDB](https://arangodb.com/).
 * [Arduino](https://github.com/vishalmysore/choturobo) - MCP server that integrates Claude AI with Arduino (ESP32) for robotics and real-world automation.
 * [Atlassian](https://github.com/sooperset/mcp-atlassian) - MCP server to interact with Atlassian Cloud (Confluence, Jira) for reading/searching pages, issues, and project metadata.
-* [AffixIO](https://github.com/AffixIO/affixio-mcp) - Local stdio MCP (`npx -y @affixio/mcp`) for host-side ACTION attestation. Tools: `attest_action`, `verify_action`, `gate_tool_call`. PII stays on the host; not KYC.
+* [AffixIO](https://github.com/AffixIO/affixio-mcp) - Local stdio MCP (`npx -y @affixio/mcp@0.1.0`) for host-side ACTION attestation. Tools: `attest_action`, `verify_action`, `gate_tool_call`. PII stays on the host; not KYC.
 * [Attestable MCP](https://github.com/co-browser/attestable-mcp-server) - MCP server that runs inside a Trusted Execution Environment (TEE) and supports remote attestation with [RA-TLS](https://gramine.readthedocs.io/en/stable/attestation.html).
 * [AWS](https://github.com/rishikavikondala/mcp-server-aws) - MCP server to manage AWS resources using natural language.
 * [AWS Athena](https://github.com/lishenxydlgzs/aws-athena-mcp) - MCP server for querying AWS Athena using SQL on the Glue Catalog.
