@@ -394,6 +394,7 @@ A growing collection of community-developed servers highlights the diverse ways 
 * [Membase](https://github.com/unibaseio/membase-mcp) - MCP server for distributed memory management and retrieval.
 * [MetaTrader MCP](https://github.com/ariadng/metatrader-mcp-server) - MCP server for executing trades via MetaTrader 5.
 * [Metricool MCP](https://github.com/metricool/mcp-metricool) - MCP server that integrates with Metricool for retrieving social media analytics and scheduling posts.
+* [Mnemoverse](https://github.com/mnemoverse/mcp-memory-server) - Hosted memory server for AI agents over MCP; tell it a recalled memory helped or misled, and it re-ranks what comes back next.
 * [MSSQL](https://github.com/aekanun2020/mcp-server/) - MCP server for MSSQL database access with access control and schema inspection.
 * [MSSQL](https://github.com/JexinSam/mssql_mcp_server) - MCP server written in Python for interacting with MSSQL databases.
 * [MSSQL-Python](https://github.com/amornpan/py-mcp-mssql) - A secure, read-only Python MCP server for MSSQL databases with schema browsing capabilities.
