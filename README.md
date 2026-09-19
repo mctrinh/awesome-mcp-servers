@@ -334,6 +334,7 @@ A growing collection of community-developed servers highlights the diverse ways 
 * [HubSpot](https://github.com/buryhuang/mcp-hubspot) - MCP server for integrating with HubSpot CRM, enabling contact and company data creation and retrieval directly from Claude.
 * [HuggingFace Spaces](https://github.com/evalstate/mcp-hfspace) - MCP server for running and interacting with HuggingFace Spaces, supporting open-source image, audio, and text models in Claude Desktop.
 * [Human-In-the-Loop](https://github.com/GongRzhe/Human-In-the-Loop-MCP-Server) - MCP server enabling AI assistants like Claude to interact with humans via real-time GUI dialogs, feedback, confirmations, and decision-making interfaces.
+* [Hyperconsciousness](https://github.com/louis030195/hyperconsciousness) - Developer-alpha encrypted knowledge store with a Rust MCP server for search and retrieval through scoped, expiring grants.
 * [Hyperliquid](https://github.com/mektigboy/server-hyperliquid) - MCP server that integrates with the Hyperliquid SDK for accessing exchange data.
 * [hyprmcp](https://github.com/stefanoamorelli/hyprmcp) - MCP server for interacting with `hyprland`, designed to be lightweight and efficient.
 * [iFlytek Workflow](https://github.com/iflytek/ifly-workflow-mcp-server) - MCP server for connecting to iFlytek Workflow, allowing you to run your own agent.
