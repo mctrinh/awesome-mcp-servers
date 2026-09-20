@@ -559,6 +559,8 @@ A growing collection of community-developed servers highlights the diverse ways 
 * [Zoom](https://github.com/Prathamesh0901/zoom-mcp-server/tree/main) - MCP server to create, read, update, and delete Zoom meetings via the Zoom API.
 
 
+* [Zornade](https://github.com/zornade/zornade-mcp) - MCP server for Italian cadastral, geospatial and real-estate data: geocoding, parcel profiles, risk and solar layers, valuations and administrative lists. Free API key, remote endpoint at https://mcp.zornade.com/mcp.
+
 ## Frameworks for Servers
 
 
