@@ -173,6 +173,7 @@ Production-ready MCP implementations maintained by platform providers.
 * [Tinybird](https://github.com/tinybirdco/mcp-tinybird) - MCP server to interact with the Tinybird serverless ClickHouse platform.
 * [Tldv](https://gitlab.com/tldv/tldv-mcp-server) - A connector for AI agents to Google Meet, Zoom & Microsoft Teams through [tldv](https://tldv.io)
 * [Tuning Engines](https://github.com/cerebrixos-org/tuning-engines-cli) - Govern model, agent, skill, and MCP workflows with policy controls, approvals, traces, and usage analytics. Install with `npx -y --package tuningengines-cli@latest te mcp serve`.
+* [Unfetch](https://unfetch.com) - Hosted Google Ads MCP server with Google Analytics and Google Search Console reporting, keyword research, and web research; analyze campaign spend, conversions, search terms, and landing pages with read-only account access and OAuth.
 * [UnifAI](https://github.com/unifai-network/unifai-mcp-server) - A platform to dynamically search and call tools using [UnifAI Network](https://unifai.network)
 * [Unstructured](https://github.com/Unstructured-IO/UNS-MCP) - A system to set up and interact with your unstructured data processing workflows on the [Unstructured Platform](https://unstructured.io)
 * [Upstash](https://github.com/upstash/mcp-server) - A service to manage Redis databases and run Redis commands on Upstash [Upstash](https://upstash.com/) with natural language.
