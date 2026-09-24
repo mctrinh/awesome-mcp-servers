@@ -34,6 +34,7 @@ Production-ready MCP implementations maintained by platform providers.
 * [Alibaba Cloud AnalyticDB for MySQL](https://github.com/aliyun/alibabacloud-adb-mysql-mcp-server) - MCP server connecting to [AnalyticDB for MySQL](https://www.alibabacloud.com/en/product/analyticdb-for-mysql) clusters for metadata retrieval, querying, and data analysis.
 * [Alibaba Cloud OPS](https://github.com/aliyun/alibaba-cloud-ops-mcp-server) - MCP server to manage the lifecycle of Alibaba Cloud resources using [CloudOps Orchestration Service](https://www.alibabacloud.com/en/product/oos) and Alibaba Cloud OpenAPI.  
 * [Apache IoTDB](https://github.com/apache/iotdb-mcp-server) - MCP server for managing and interacting with the [Apache IoTDB](https://github.com/apache/iotdb) time series database and its tools.
+* [API.market MCP Gateway](https://api.market/api/mcp/gateway) - Hosted OAuth MCP gateway for discovering and calling 580+ APIs, with operation schemas, usage checks, and subscription management.
 * [APIMatic MCP](https://github.com/apimatic/apimatic-validator-mcp) - MCP server for validating OpenAPI specifications using APIMatic, processing files and returning validation summaries.
 * [Apollo MCP Server](https://github.com/apollographql/apollo-mcp-server/) - MCP server that connects GraphQL APIs to AI agents for seamless data interaction.
 * [Arize Phoenix](https://github.com/Arize-ai/phoenix/tree/main/js/packages/phoenix-mcp) - A toolkit to inspect traces, manage prompts, curate datasets, and run experiments using Arize Phoenix, an AI and LLM observability platform.
