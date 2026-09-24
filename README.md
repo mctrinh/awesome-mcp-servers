@@ -535,6 +535,7 @@ A growing collection of community-developed servers highlights the diverse ways 
 * [Video Still Capture](https://github.com/13rac1/videocapture-mcp) - MCP server to capture still images from OpenCV-compatible webcams or other video sources.
 * [Virtual location (Google Street View,etc.)](https://github.com/mfukushim/map-traveler-mcp) - MCP server to simulate virtual locations using Google Maps, Street View, PixAI, Stability.ai, ComfyUI, and Bluesky.
 * [VolcEngine TOS](https://github.com/dinghuazhou/sample-mcp-server-tos) - MCP server to retrieve objects from VolcEngine TOS with flexible querying.
+* [Vend API Merchant](https://extract.paypercall.dev) - A remote pay-per-call MCP server for web page extraction, domain research, and web search, with each call settled instantly in Nano (XNO) via x402. No signup or API keys. Endpoint: https://extract.paypercall.dev/mcp.
 * [Wanaku MCP Router](https://github.com/wanaku-ai/wanaku/) - MCP server to route requests using a streaming SSE-based engine, enabling enterprise system integration with AI agents.
 * [Webflow](https://github.com/kapilduraphe/webflow-mcp-server) - MCP server to interact with the Webflow APIs for managing websites and CMS content.
 * [Weather](https://github.com/isdaniel/mcp_weather_server) - MCP server to retrieve weather forecasts from the [Open-Meteo](https://api.open-meteo.com) API.
