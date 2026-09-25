@@ -241,6 +241,7 @@ A growing collection of community-developed servers highlights the diverse ways 
 * [ChatSum](https://github.com/mcpso/mcp-server-chatsum) - MCP server to query and summarize chat messages using LLMs.
 * [Chess.com](https://github.com/pab1it0/chess-mcp) - MCP server that provides access to Chess.com player data, game history, and public information for chess analysis.
 * [Chroma](https://github.com/privetin/chroma) - A vector database MCP server for semantic document search and metadata filtering, built on Chroma.
+* [ClaimIDX](https://github.com/claimidx/claimidx) - Prior art for AI agents: a replay-gated failure index so agents ask before retrying work another agent already solved. MCP: `claimidx-mcp` after `pip install "claimidx[server]>=0.7.12"`. https://claimidx.com
 * [ClaudePost](https://github.com/ZilongXue/claude-post) - MCP server for managing Gmail, including email search, reading, and sending, with secure LLM interactions.
 * [ClickUp](https://github.com/TaazKareem/clickup-mcp-server) - MCP server for ClickUp task management, supporting task creation, updates, bulk operations, and markdown formatting.
 * [Cloudinary](https://github.com/felores/cloudinary-mcp-server) - MCP server to upload media to Cloudinary and retrieve media links and metadata.
