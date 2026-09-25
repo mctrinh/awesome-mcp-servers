@@ -77,6 +77,7 @@ Production-ready MCP implementations maintained by platform providers.
 * [EduBase](https://github.com/EduBase/MCP) - A platform to interact with [EduBase](https://www.edubase.net), offering advanced quizzing, exam management, and content organization tools.
 * [Elasticsearch](https://github.com/elastic/mcp-server-elasticsearch) - MCP server to query and analyze your data in [Elasticsearch](https://www.elastic.co/elasticsearch).
 * [eSignatures](https://github.com/esignaturescom/mcp-server-esignatures) - MCP server for managing contracts and templates-draft, review, and send binding agreements.
+* [Eulerpool](https://github.com/eulerpool/eulerpool-mcp) - MCP server providing financial data for AI agents: 250+ tools covering stocks, fundamentals, ETFs, macro (FRED/ECB/IMF/World Bank), crypto, FX, insider trades, congress trading and options flow from [Eulerpool](https://eulerpool.com/developers/mcp-server).
 * [Exa](https://github.com/exa-labs/exa-mcp-server) - A platform to access [Exa](https://exa.ai), a search engine purpose-built for AIs.
 * [Fewsats](https://github.com/Fewsats/fewsats-mcp) - A platform that enables AI agents to purchase anything securely using [Fewsats](https://fewsats.com).
 * [Fibery](https://github.com/Fibery-inc/fibery-mcp-server) - MCP server to perform queries and entity operations in your [Fibery](https://fibery.io) workspace.
