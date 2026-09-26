@@ -556,6 +556,7 @@ A growing collection of community-developed servers highlights the diverse ways 
 * [YouTube](https://github.com/Klavis-AI/klavis/tree/main/mcp_servers/youtube) - MCP server to extract YouTube video metadata with proxy support.
 * [YouTube](https://github.com/ZubeidHendricks/youtube-mcp-server) - MCP server to manage YouTube videos, Shorts, and access channel analytics.
 * [YouTube Video Summarizer](https://github.com/nabid-pf/youtube-video-summarizer-mcp) - MCP server to summarize long YouTube videos into concise overviews.
+* [YouTube Transcript + Search](https://github.com/tubeagentkit/youtube-mcp) - Remote MCP server for YouTube transcripts, video/channel search, channel browsing, and playlist extraction, free tier with no card required.
 * [Zoom](https://github.com/Prathamesh0901/zoom-mcp-server/tree/main) - MCP server to create, read, update, and delete Zoom meetings via the Zoom API.
 
 
