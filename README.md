@@ -25,6 +25,7 @@ Production-ready MCP implementations maintained by platform providers.
 * [21st.dev Magic](https://github.com/21st-dev/magic-mcp) - MCP server for generating crafted UI components inspired by top 21st.dev design engineers.
 * [Actors MCP Server](https://apify.com/apify/actors-mcp-server) - A platform leveraging 3,000+ pre-built cloud tools to extract data from websites, social media, e-commerce, search engines, and more.
 * [Adfin](https://github.com/Adfin-Engineering/mcp-server-adfin) - A platform to manage payments, invoicing, and accounting reconciliations through [Adfin](https://www.adfin.com/).
+* [Aident Loadout](https://github.com/Aident-AI/aident-skill) - Capability layer / remote MCP connecting AI agents to 1,000+ apps and 400+ Skills through one setup, with Vault credentials, one balance, and audit ([aident.ai](https://aident.ai)).
 * [AgentQL](https://github.com/tinyfish-io/agentql-mcp) - A platform that enables AI agents to extract structured data from unstructured web content using [AgentQL](https://www.agentql.com/).
 * [AgentRPC](https://github.com/agentrpc/agentrpc) - A platform to connect to any function, in any language, across network boundaries using [AgentRPC](https://www.agentrpc.com/).
 * [Aiven](https://github.com/Aiven-Open/mcp-aiven) - A platform to navigate your [Aiven projects](https://go.aiven.io/mcp-server) and interact with PostgreSQL, Apache Kafka, ClickHouse, and OpenSearch services.
