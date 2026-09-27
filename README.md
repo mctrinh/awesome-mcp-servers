@@ -150,6 +150,7 @@ Production-ready MCP implementations maintained by platform providers.
 * [Pure.md](https://github.com/puremd/puremd-mcp) - MCP server to reliably access web content in markdown format with bot detection avoidance, proxy rotation, and headless JS rendering.
 * [Put.io](https://github.com/putdotio/putio-mcp-server) - MCP server to interact with your Put.io account for torrent downloads.
 * [Qdrant](https://github.com/qdrant/mcp-server-qdrant/) - MCP server implementing a semantic memory layer on top of the Qdrant vector search engine.
+* [RapportScore](https://app.rapportscore.ai) - Hosted MCP server at `https://mcp.rapportscore.ai/mcp` (Streamable HTTP, OAuth 2.1) for authorized Conversational AI Coaching sessions, transcripts, measurements, and coaching, plus permissioned Team Dynamics reports in a limited U.S. pilot; access depends on account permissions and plan.
 * [Ragie](https://github.com/ragieai/ragie-mcp-server/) - MCP server to retrieve context from your Ragie (RAG) knowledge base connected to integrations like Google Drive, Notion, JIRA, and more.
 * [Redis](https://github.com/redis/mcp-redis/) - An official MCP server offering an interface to manage and search data in Redis.
 * [Redis Cloud API](https://github.com/redis/mcp-redis-cloud/) - MCP server allowing management of Redis Cloud resources using natural language.
