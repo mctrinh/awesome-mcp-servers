@@ -136,6 +136,7 @@ Production-ready MCP implementations maintained by platform providers.
 * [OceanBase](https://github.com/oceanbase/mcp-oceanbase) - MCP server for the OceanBase database and its tools.
 * [Octagon](https://github.com/OctagonAI/octagon-mcp-server) - A platform delivering real-time investment research with extensive private and public market data.
 * [OlaMaps](https://pypi.org/project/ola-maps-mcp-server) - An official Ola Maps MCP Server offering services like geocode, directions, place details, and more.
+* [Omentir](https://github.com/vanshyadav1408/Omentir) - Official hosted MCP server for Omentir, an open-source AI sales workspace for LinkedIn: find and score leads, draft messages, run human-paced campaigns, and answer replies. OAuth, or self-host (MIT).
 * [OP.GG](https://github.com/opgginc/opgg-mcp) - An API to access real-time gaming data across popular titles such as League of Legends, TFT, and Valorant, including champion analytics and esports schedules.
 * [OpsLevel](https://github.com/opslevel/opslevel-mcp) - An official MCP server for the [OpsLevel](https://www.opslevel.com) platform.
 * [Oxylabs](https://github.com/oxylabs/oxylabs-mcp) - An API to scrape websites using Oxylabs Web API, with support for dynamic rendering and structured data extraction.
