@@ -283,7 +283,7 @@ A growing collection of community-developed servers highlights the diverse ways 
 * [DPLP](https://github.com/szeider/mcp-dblp) - MCP server to search the [DBLP](https://dblp.org) computer science bibliography database.
 * [Drupal](https://github.com/Omedia/mcp-server-drupal) - MCP server for interacting with [Drupal](https://www.drupal.org/project/mcp) using the STDIO transport layer.
 * [dune-analytics-mcp](https://github.com/kukapay/dune-analytics-mcp) - MCP server that bridges Dune Analytics data to AI agents.
-* [eCFR MCP](https://github.com/lrehmann/ecfr-mcp) - Search and retrieve current U.S. federal regulations by citation, with official source links and freshness flags.
+* [eCFR MCP](https://github.com/lrehmann/ecfr-mcp) - Search and retrieve federal regulations; legal citations link to ecfr.io and results include source dates and freshness flags.
 * [EdgeOne Pages MCP](https://github.com/TencentEdgeOne/edgeone-pages-mcp) - An MCP service for deploying HTML content to EdgeOne Pages and obtaining a publicly accessible URL.
 * [Edwin](https://github.com/edwin-finance/edwin/tree/main/examples/mcp-server) - MCP server for the Edwin SDK, enabling AI agents to interact with DeFi protocols across EVM, Solana, and other blockchains.
 * [Elasticsearch](https://github.com/cr7258/elasticsearch-mcp-server) - MCP server implementation that provides interaction with Elasticsearch.
