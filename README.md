@@ -529,6 +529,7 @@ A growing collection of community-developed servers highlights the diverse ways 
 * [Unity Catalog](https://github.com/ognis1205/mcp-server-unitycatalog) - MCP server to interact with Unity Catalog AI, supporting CRUD operations on functions and executing them as MCP tools.
 * [Unity3d Game Engine](https://github.com/CoderGamester/mcp-unity) - MCP server to access Unity3d Editor tools like console logs, test runner logs, editor functions, and hierarchy state, enabling interaction and resource gathering.
 * [Unity Integration (Advanced)](https://github.com/quazaai/UnityMCPIntegration) - Advanced MCP server to execute editor code, fetch logs, read editor state, and access project files in Unity3d for enhanced script editing and asset creation.
+* [US Code MCP](https://github.com/lrehmann/uscode-mcp) - Read-only search and section retrieval for an independent mirror of OLRC-published U.S. Code; browse titles, with legal citations linking to uscode.ecfr.io.
 * [Vega-Lite](https://github.com/isaacwasserman/mcp-vegalite-server) - MCP server to generate data visualizations using the Vega-Lite format and renderer.
 * [Vertica](https://github.com/nolleh/mcp-vertica) - MCP server to interact with Vertica databases, supporting configurable access controls and schema inspection.
 * [Video Editor](https://github.com/burningion/video-editing-mcp) - MCP server to add, edit, and search videos via [Video Jungle](https://www.video-jungle.com/).
