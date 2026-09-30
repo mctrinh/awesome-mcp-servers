@@ -459,6 +459,7 @@ A growing collection of community-developed servers highlights the diverse ways 
 * [Plane](https://github.com/kelvin6365/plane-mcp-server) - MCP server to manage projects and issues through Plane's API.
 * [Playwright](https://github.com/executeautomation/mcp-playwright) - MCP server for browser automation and web scraping using Playwright.
 * [Postman](https://github.com/shannonlal/mcp-postman) - Run Postman Collections locally via Newman; execute tests and return results through MCP.
+* [Peon](https://github.com/Peon-sh/Peon) - Open-source self-hosted Docker deployment platform with a built-in Streamable HTTP MCP server; agents manage deploys under workspace RBAC (no shell exec tools). Docs: https://peon.sh/docs/mcp
 * [Prefect](https://github.com/allen-munsch/mcp-prefect) - MCP server for workflow orchestration and ELT/ETL with Prefect Server and Prefect Cloud [https://www.prefect.io/] using the `prefect` Python client.
 * [Productboard](https://github.com/kenjihikmatullah/productboard-mcp) - MCP server to integrate Productboard API into agent workflows via MCP.
 * [Prometheus](https://github.com/pab1it0/prometheus-mcp-server) - MCP server to query and analyze metrics from the Prometheus monitoring system.
