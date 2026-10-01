@@ -236,6 +236,7 @@ A growing collection of community-developed servers highlights the diverse ways 
 * [Bsc-mcp](https://github.com/TermiX-official/bsc-mcp) - MCP server bridging AI and the BNB Chain, enabling operations such as transfers, swaps, token launches, and security checks.
 * [BVG MCP Server (Unofficial)](https://github.com/svkaizoku/mcp-bvg) - An unofficial MCP server for accessing the Berliner Verkehrsbetriebe (BVG) public transit API. 
 * [Calculator](https://github.com/githejie/mcp-server-calculator) - MCP server that enables LLMs to perform precise numerical calculations using a calculator interface.
+* [Ceraph](https://ceraph.dev) - MCP server that lets AI coding agents drive and test React Native and Expo apps end-to-end on iOS and Android real devices, simulators, and emulators.
 * [CFBD API](https://github.com/lenwood/cfbd-mcp-server) - MCP server for accessing the [College Football Data API](https://collegefootballdata.com/).
 * [ChatMCP](https://github.com/AI-QL/chat-mcp) - An open-source cross-platform desktop GUI for Linux, macOS, and Windows, allowing seamless interaction with MCP servers across various LLMs.
 * [ChatSum](https://github.com/mcpso/mcp-server-chatsum) - MCP server to query and summarize chat messages using LLMs.
