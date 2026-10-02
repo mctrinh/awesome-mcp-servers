@@ -180,6 +180,7 @@ Production-ready MCP implementations maintained by platform providers.
 * [Verbwire](https://github.com/verbwire/verbwire-mcp-server) - A platform to deploy smart contracts, mint NFTs, manage IPFS storage, and more through the Verbwire API.
 * [Verodat](https://github.com/Verodat/verodat-mcp-server) - An AI-ready data platform you can interact with via the Verodat MCP server.
 * [VeyraX](https://github.com/VeyraX/veyrax-mcp) - A single tool to control over 100 API integrations and UI components.
+* [VideoGen](https://github.com/video-gen/videogen-mcp) - Official [VideoGen MCP server](https://videogen.io/videogen-mcp) for creating and editing videos, images, voiceovers, music, and avatars. Supports local stdio and hosted HTTP with OAuth or API keys.
 * [WayStation](https://github.com/waystation-ai/mcp) - A universal MCP server to connect to popular productivity tools such as Notion, Monday, Airtable, and many more.
 * [WaveSpeed](https://github.com/WaveSpeedAI/mcp-server) - MCP server providing AI agents with image and video generation capabilities.
 * [Xero](https://github.com/XeroAPI/xero-mcp-server) - An official MCP server to interact with the accounting data in your business.
