@@ -83,6 +83,7 @@ Production-ready MCP implementations maintained by platform providers.
 * [Financial Datasets](https://github.com/financial-datasets/mcp-server) - MCP server providing a stock market API made for AI agents.
 * [Firecrawl](https://github.com/mendableai/firecrawl-mcp-server) - A platform to extract web data using [Firecrawl](https://firecrawl.dev).
 * [Fireproof](https://github.com/fireproof-storage/mcp-database-server) - MCP server offering an immutable ledger database with live synchronization.
+* [FirstSales MCP](https://developer.firstsales.io/agents/mcp-server) - Official hosted CRM MCP server for reading contacts, companies, deals and lists, and creating contacts in an authorized workspace. Uses Streamable HTTP at `https://api.app.firstsales.io/mcp`; requires OAuth and an eligible paid FirstSales plan.
 * [ForeverVM](https://github.com/jamsocket/forevervm/tree/main/javascript/mcp-server) - MCP server for ForeverVM, enabling Claude to execute code in a Python REPL.
 * [Github](https://github.com/github/github-mcp-server) - GitHub's official MCP server
 * [GibsonAI](https://github.com/GibsonAI/mcp) - A platform for AI-powered cloud databases to build, migrate, and deploy database instances with AI.
