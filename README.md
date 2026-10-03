@@ -253,6 +253,7 @@ A growing collection of community-developed servers highlights the diverse ways 
 * [CoinMarketCap](https://github.com/shinzo-labs/coinmarketcap-mcp) - A complete MCP server implementation of the [CoinMarketCap](https://coinmarketcap.com/) API, offering access to crypto market data and metrics.
 * [Computer-Use - Remote MacOS Use](https://github.com/baryhuang/mcp-remote-macos-use) - An out-of-the-box alternative to OpenAI Operator, providing remote macOS desktop access for autonomous AI agents.
 * [Contentful-mcp](https://github.com/ivo-toby/contentful-mcp) - MCP server to read, update, delete, and publish content in your [Contentful](https://contentful.com) spaces.
+* [Continuity](https://github.com/LAHutchins91/continuity-mcp) - Private story bible for fiction writers. Agents manage story projects, search continuity context, update locked canon, record approved scenes, save checkpoints, and run continuity checks. Hosted Streamable HTTP at https://continuitywriter.com/mcp with OAuth 2.1.
 * [CreateveAI Nexus](https://github.com/spgoodman/createveai-nexus-server) - An open-source bridge between AI agents and enterprise systems, compatible with ComfyUI nodes, Azure Key Vault, and on-premise deployment.
 * [crypto-feargreed-mcp](https://github.com/kukapay/crypto-feargreed-mcp) - MCP server offering real-time and historical Crypto Fear & Greed Index data.
 * [crypto-indicators-mcp](https://github.com/kukapay/crypto-indicators-mcp) - MCP server that delivers various cryptocurrency technical indicators and strategies.
