@@ -162,6 +162,7 @@ Production-ready MCP implementations maintained by platform providers.
 * [ScreenshotOne](https://github.com/screenshotone/mcp/) - A tool to render website screenshots with [ScreenshotOne](https://screenshotone.com/)
 * [Semgrep](https://github.com/semgrep/mcp) - MCP server enabling AI agents to secure code with [Semgrep](https://semgrep.dev/).
 * [SingleStore](https://github.com/singlestore-labs/mcp-server-singlestore) - MCP server to interact with the SingleStore database platform.
+* [SkyAccess](https://github.com/sky-access/skyaccess-mcp) - Official remote MCP server for [SkyAccess](https://skyaccess.com) private jet empty legs. Search 5,000+ live empty leg flights, get charter price estimates and booking links. No account or API key. Streamable HTTP at `https://mcp.skyaccess.com/mcp`.
 * [Snyk](https://github.com/snyk/snyk-ls/blob/main/mcp_extension/README.md) - A tool to enhance security posture by embedding Snyk vulnerability scanning directly into agentic workflows.
 * [StarRocks](https://github.com/StarRocks/mcp-server-starrocks) - MCP server to interact with StarRocks.
 * [Stripe](https://github.com/stripe/agent-toolkit) - MCP server to interact with Stripe API.
