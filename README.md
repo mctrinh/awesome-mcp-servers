@@ -254,6 +254,7 @@ A growing collection of community-developed servers highlights the diverse ways 
 * [Computer-Use - Remote MacOS Use](https://github.com/baryhuang/mcp-remote-macos-use) - An out-of-the-box alternative to OpenAI Operator, providing remote macOS desktop access for autonomous AI agents.
 * [Contentful-mcp](https://github.com/ivo-toby/contentful-mcp) - MCP server to read, update, delete, and publish content in your [Contentful](https://contentful.com) spaces.
 * [CreateveAI Nexus](https://github.com/spgoodman/createveai-nexus-server) - An open-source bridge between AI agents and enterprise systems, compatible with ComfyUI nodes, Azure Key Vault, and on-premise deployment.
+* [Court Rules](https://github.com/foklepoint/court-rules-mcp) - MCP server that returns U.S. federal and state court filing rules, local rules, judge standing orders and court holiday calendars, each with a citation to the source document.
 * [crypto-feargreed-mcp](https://github.com/kukapay/crypto-feargreed-mcp) - MCP server offering real-time and historical Crypto Fear & Greed Index data.
 * [crypto-indicators-mcp](https://github.com/kukapay/crypto-indicators-mcp) - MCP server that delivers various cryptocurrency technical indicators and strategies.
 * [crypto-sentiment-mcp](https://github.com/kukapay/crypto-sentiment-mcp) - MCP server providing sentiment analysis for cryptocurrency markets.
