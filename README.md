@@ -342,6 +342,7 @@ A growing collection of community-developed servers highlights the diverse ways 
 * [Inoyu](https://github.com/sergehuber/inoyu-mcp-unomi-server) - MCP server for interacting with Apache Unomi CDP, enabling retrieval and updates of customer profiles.
 * [interactive-mcp](https://github.com/ttommyth/interactive-mcp) - MCP server that enables interactive LLM workflows with local user prompts and chat capabilities in the loop.
 * [Intercom](https://github.com/raoulbia-ai/mcp-server-for-intercom) - MCP server for accessing customer support tickets from Intercom, allowing analysis via Claude Desktop or Cline.
+* [Invompt](https://github.com/Invompt/invompt-mcp) - Create invoice drafts from AI conversation context via hosted MCP; Start as a guest and review before send. Hosted https://mcp.invompt.com/mcp · Install https://www.invompt.com/install · Registry com.invompt/invompt
 * [iOS Simulator](https://github.com/InditexTech/mcp-server-simulator-ios-idb) - MCP server that allows LLMs to interact with iOS simulators (iPhone, iPad) using natural language commands.
 * [iTerm MCP](https://github.com/ferrislucas/iterm-mcp) - MCP server for integrating with the iTerm2 terminal emulator on macOS to execute and monitor terminal commands.
 - [iTerm MCP Server](https://github.com/rishabkoul/iTerm-MCP-Server) - MCP server implementation for iTerm2, with support for managing multiple terminal sessions.
