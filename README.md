@@ -288,6 +288,7 @@ A growing collection of community-developed servers highlights the diverse ways 
 * [Elasticsearch](https://github.com/cr7258/elasticsearch-mcp-server) - MCP server implementation that provides interaction with Elasticsearch.
 * [ElevenLabs](https://github.com/mamertofabian/elevenlabs-mcp-server) - MCP server that integrates with the ElevenLabs text-to-speech API, capable of generating full voiceovers with multiple voices.
 * [Email](https://github.com/Shy2593666979/mcp-server-email) - MCP server that enables users to send emails via providers like Gmail, Outlook, Yahoo, Sina, Sohu, 126, 163, and QQ Mail, with support for file attachments from specified directories.
+* [Equibles](https://equibles.com/mcp) - Hosted MCP server for US company research: SEC filing search, as-reported fundamentals, earnings-call transcripts, 13F holdings, insider and congressional trades, and FRED macro series, with links to the source filings.
 * [Ergo Blockchain MCP](https://github.com/marctheshark3/ergo-mcp) - MCP server that integrates Ergo Blockchain Node and Explorer APIs for balance checks, transaction analysis, forensic address investigations, token search, and network monitoring.
 * [Eunomia](https://github.com/whataboutyou-ai/eunomia-MCP-server) - An extension of the Eunomia framework that connects Eunomia instruments with MCP servers.
 * [EVM MCP Server](https://github.com/mcpdotdirect/evm-mcp-server) - A comprehensive blockchain service for 30+ EVM networks, supporting native tokens, ERC20, NFTs, smart contracts, transactions, and ENS resolution.
