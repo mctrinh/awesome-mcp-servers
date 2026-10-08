@@ -36,6 +36,7 @@ Production-ready MCP implementations maintained by platform providers.
 * [Apache IoTDB](https://github.com/apache/iotdb-mcp-server) - MCP server for managing and interacting with the [Apache IoTDB](https://github.com/apache/iotdb) time series database and its tools.
 * [APIMatic MCP](https://github.com/apimatic/apimatic-validator-mcp) - MCP server for validating OpenAPI specifications using APIMatic, processing files and returning validation summaries.
 * [Apollo MCP Server](https://github.com/apollographql/apollo-mcp-server/) - MCP server that connects GraphQL APIs to AI agents for seamless data interaction.
+* [Arcmira: YouTube Transcript Search](https://github.com/arcmira/mcp) - Hosted MCP for timestamped transcript search and speaker research on [Arcmira](https://arcmira.com/). [API docs](https://arcmira.com/docs).
 * [Arize Phoenix](https://github.com/Arize-ai/phoenix/tree/main/js/packages/phoenix-mcp) - A toolkit to inspect traces, manage prompts, curate datasets, and run experiments using Arize Phoenix, an AI and LLM observability platform.
 * [Asgardeo](https://github.com/asgardeo/asgardeo-mcp-server) - MCP server to interact with your [Asgardeo](https://wso2.com/asgardeo) organization through LLM tools.
 * [Astra DB](https://github.com/datastax/astra-db-mcp) - MCP server providing comprehensive management of collections and documents in a [DataStax Astra DB](https://www.datastax.com/products/datastax-astra) NoSQL database.
