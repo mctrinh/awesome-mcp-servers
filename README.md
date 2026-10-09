@@ -81,6 +81,7 @@ Production-ready MCP implementations maintained by platform providers.
 * [Fewsats](https://github.com/Fewsats/fewsats-mcp) - A platform that enables AI agents to purchase anything securely using [Fewsats](https://fewsats.com).
 * [Fibery](https://github.com/Fibery-inc/fibery-mcp-server) - MCP server to perform queries and entity operations in your [Fibery](https://fibery.io) workspace.
 * [Financial Datasets](https://github.com/financial-datasets/mcp-server) - MCP server providing a stock market API made for AI agents.
+* [Fincept MCP](https://github.com/Fincept-Corporation/fincept-mcp-docs) - Hosted MCP server for [Fincept Terminal](https://fincept.in): quotes, candles, option chains, fundamentals, economic data, SEC filings, news, backtests, paper trading and 15 quant engines. Remote endpoint `https://enterprise.fincept.in/mcp` with OAuth sign-in.
 * [Firecrawl](https://github.com/mendableai/firecrawl-mcp-server) - A platform to extract web data using [Firecrawl](https://firecrawl.dev).
 * [Fireproof](https://github.com/fireproof-storage/mcp-database-server) - MCP server offering an immutable ledger database with live synchronization.
 * [ForeverVM](https://github.com/jamsocket/forevervm/tree/main/javascript/mcp-server) - MCP server for ForeverVM, enabling Claude to execute code in a Python REPL.
