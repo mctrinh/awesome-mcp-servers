@@ -530,12 +530,12 @@ A growing collection of community-developed servers highlights the diverse ways 
 * [Unity3d Game Engine](https://github.com/CoderGamester/mcp-unity) - MCP server to access Unity3d Editor tools like console logs, test runner logs, editor functions, and hierarchy state, enabling interaction and resource gathering.
 * [Unity Integration (Advanced)](https://github.com/quazaai/UnityMCPIntegration) - Advanced MCP server to execute editor code, fetch logs, read editor state, and access project files in Unity3d for enhanced script editing and asset creation.
 * [Vega-Lite](https://github.com/isaacwasserman/mcp-vegalite-server) - MCP server to generate data visualizations using the Vega-Lite format and renderer.
+* [Vend API Merchant](https://extract.paypercall.dev) - A remote pay-per-call MCP server for web page extraction, domain research, and web search, with each call settled instantly in Nano (XNO) via x402. No signup or API keys. Endpoint: https://extract.paypercall.dev/mcp.
 * [Vertica](https://github.com/nolleh/mcp-vertica) - MCP server to interact with Vertica databases, supporting configurable access controls and schema inspection.
 * [Video Editor](https://github.com/burningion/video-editing-mcp) - MCP server to add, edit, and search videos via [Video Jungle](https://www.video-jungle.com/).
 * [Video Still Capture](https://github.com/13rac1/videocapture-mcp) - MCP server to capture still images from OpenCV-compatible webcams or other video sources.
 * [Virtual location (Google Street View,etc.)](https://github.com/mfukushim/map-traveler-mcp) - MCP server to simulate virtual locations using Google Maps, Street View, PixAI, Stability.ai, ComfyUI, and Bluesky.
 * [VolcEngine TOS](https://github.com/dinghuazhou/sample-mcp-server-tos) - MCP server to retrieve objects from VolcEngine TOS with flexible querying.
-* [Vend API Merchant](https://extract.paypercall.dev) - A remote pay-per-call MCP server for web page extraction, domain research, and web search, with each call settled instantly in Nano (XNO) via x402. No signup or API keys. Endpoint: https://extract.paypercall.dev/mcp.
 * [Wanaku MCP Router](https://github.com/wanaku-ai/wanaku/) - MCP server to route requests using a streaming SSE-based engine, enabling enterprise system integration with AI agents.
 * [Webflow](https://github.com/kapilduraphe/webflow-mcp-server) - MCP server to interact with the Webflow APIs for managing websites and CMS content.
 * [Weather](https://github.com/isdaniel/mcp_weather_server) - MCP server to retrieve weather forecasts from the [Open-Meteo](https://api.open-meteo.com) API.
