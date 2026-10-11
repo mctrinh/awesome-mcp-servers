@@ -161,6 +161,7 @@ Production-ready MCP implementations maintained by platform providers.
 * [Search1API](https://github.com/fatwang2/search1api-mcp) - An API for search, crawling, and sitemaps.
 * [ScreenshotOne](https://github.com/screenshotone/mcp/) - A tool to render website screenshots with [ScreenshotOne](https://screenshotone.com/)
 * [Semgrep](https://github.com/semgrep/mcp) - MCP server enabling AI agents to secure code with [Semgrep](https://semgrep.dev/).
+* [Silicon Floor](https://github.com/Baptoshi/silicon-floor) - Who owns AI and semiconductor stocks, who is buying and selling them, and what their filed numbers say: SEC XBRL financials, 13F, Schedule 13D/G, Forms 3/4/5, FINRA short interest and dividends, every figure dated and linked to its filing. Remote, no key: [https://siliconfloor.com/mcp](https://siliconfloor.com/mcp)
 * [SingleStore](https://github.com/singlestore-labs/mcp-server-singlestore) - MCP server to interact with the SingleStore database platform.
 * [Snyk](https://github.com/snyk/snyk-ls/blob/main/mcp_extension/README.md) - A tool to enhance security posture by embedding Snyk vulnerability scanning directly into agentic workflows.
 * [StarRocks](https://github.com/StarRocks/mcp-server-starrocks) - MCP server to interact with StarRocks.
