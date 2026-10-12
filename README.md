@@ -203,6 +203,7 @@ A growing collection of community-developed servers highlights the diverse ways 
 * [Airtable](https://github.com/domdomegg/airtable-mcp-server) - MCP server for read and write access to [Airtable](https://airtable.com/) databases, including schema inspection.
 * [Airtable](https://github.com/felores/airtable-mcp) - MCP server for interacting with Airtable databases.
 * [AlphaVantage](https://github.com/calvernaz/alphavantage) - MCP server for accessing stock market data from [AlphaVantage](https://www.alphavantage.co).
+* [Altimateguide](https://github.com/imharikumaran/altimateguide-agent-mcp) - MCP server to submit software tools to the [Altimateguide](https://altimateguide.com) directory for editorial review, with category listing, duplicate checks, submission status and listing upgrades.
 * [Amadeus](https://github.com/donghyun-chae/mcp-amadeus) - MCP server to interact with the Amadeus Flight Offers Search API for detailed flight information.
 * [Anki](https://github.com/scorzeth/anki-mcp-server) - MCP server to interact with your [Anki](https://apps.ankiweb.net) decks and cards.
 * [Any Chat Completions](https://github.com/pyroprompts/any-chat-completions-mcp) - MCP server to interact with any OpenAI SDK-compatible chat completions API (e.g., OpenAI, Perplexity, Groq, xAI).
