@@ -80,6 +80,7 @@ Production-ready MCP implementations maintained by platform providers.
 * [Exa](https://github.com/exa-labs/exa-mcp-server) - A platform to access [Exa](https://exa.ai), a search engine purpose-built for AIs.
 * [Fewsats](https://github.com/Fewsats/fewsats-mcp) - A platform that enables AI agents to purchase anything securely using [Fewsats](https://fewsats.com).
 * [Fibery](https://github.com/Fibery-inc/fibery-mcp-server) - MCP server to perform queries and entity operations in your [Fibery](https://fibery.io) workspace.
+* [Fillfolio MCP](https://github.com/fillfolio/portfolio-mcp) - Hosted read-only access to stored portfolio, cash, spending and budget data through OAuth; requires a paid account. Public contracts, setup documentation and helpers; private hosted implementation.
 * [Financial Datasets](https://github.com/financial-datasets/mcp-server) - MCP server providing a stock market API made for AI agents.
 * [Firecrawl](https://github.com/mendableai/firecrawl-mcp-server) - A platform to extract web data using [Firecrawl](https://firecrawl.dev).
 * [Fireproof](https://github.com/fireproof-storage/mcp-database-server) - MCP server offering an immutable ledger database with live synchronization.
