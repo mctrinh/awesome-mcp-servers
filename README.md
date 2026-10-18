@@ -412,6 +412,7 @@ A growing collection of community-developed servers highlights the diverse ways 
 * [Morningstar](https://github.com/Morningstar/morningstar-mcp-server) - MCP server for interfacing with Morningstar data and editorial content.
 * [Multicluster-MCP-Sever](https://github.com/yanmxa/multicluster-mcp-server) - An MCP gateway to interact with multiple Kubernetes clusters from a single endpoint.
 * [Multi-Model Advisor](https://github.com/YuChenSSR/multi-ai-advisor-mcp) - MCP server that aggregates responses from multiple Ollama models to deliver multi-perspective answers.
+* [Muslim Prayer Reminder MCP](https://github.com/tareq7/muslim-prayer-mcp) - Open-source MCP server for calculated Muslim prayer times by location and regional method, daily timetables, and next-prayer countdowns.
 * [MySQL](https://github.com/benborla/mcp-server-mysql) - A Node.js-based MCP server for MySQL database access with access controls and inspection.
 * [MySQL](https://github.com/designcomputer/mysql_mcp_server) - A Python-based MCP server for accessing MySQL databases with schema introspection.
 * [MasterGo](https://github.com/mastergo-design/mastergo-magic-mcp) - MCP server that enables AI models to retrieve design specification data directly from MasterGo files.
