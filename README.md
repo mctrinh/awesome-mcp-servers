@@ -150,6 +150,7 @@ Production-ready MCP implementations maintained by platform providers.
 * [Pure.md](https://github.com/puremd/puremd-mcp) - MCP server to reliably access web content in markdown format with bot detection avoidance, proxy rotation, and headless JS rendering.
 * [Put.io](https://github.com/putdotio/putio-mcp-server) - MCP server to interact with your Put.io account for torrent downloads.
 * [Qdrant](https://github.com/qdrant/mcp-server-qdrant/) - MCP server implementing a semantic memory layer on top of the Qdrant vector search engine.
+* [Quibbly](https://github.com/Scriptify-Inc/linkedin-mcp) - A hosted LinkedIn inbox MCP server to read conversations and connections, see who watched your videos, set follow-ups and notes, and draft replies you send with one click in [Quibbly](https://quibbly.co/linkedin-mcp). Never sends on its own.
 * [Ragie](https://github.com/ragieai/ragie-mcp-server/) - MCP server to retrieve context from your Ragie (RAG) knowledge base connected to integrations like Google Drive, Notion, JIRA, and more.
 * [Redis](https://github.com/redis/mcp-redis/) - An official MCP server offering an interface to manage and search data in Redis.
 * [Redis Cloud API](https://github.com/redis/mcp-redis-cloud/) - MCP server allowing management of Redis Cloud resources using natural language.
