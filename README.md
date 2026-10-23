@@ -213,6 +213,7 @@ A growing collection of community-developed servers highlights the diverse ways 
 * [Aranet4](https://github.com/diegobit/aranet4-mcp-server) - MCP server to manage your Aranet4 CO2 sensor and query historical data stored in SQLite.
 * [ArangoDB](https://github.com/ravenwits/mcp-server-arangodb) - MCP server for database interaction using [ArangoDB](https://arangodb.com/).
 * [Arduino](https://github.com/vishalmysore/choturobo) - MCP server that integrates Claude AI with Arduino (ESP32) for robotics and real-world automation.
+* [Athmex](https://www.athmex.com/faq) - Gives Claude and ChatGPT athlete profiles, personal bests, goals, races, and weekly constraints for personalised training conversations; hosted service requiring an Athmex account and connected membership.
 * [Atlassian](https://github.com/sooperset/mcp-atlassian) - MCP server to interact with Atlassian Cloud (Confluence, Jira) for reading/searching pages, issues, and project metadata.
 * [Attestable MCP](https://github.com/co-browser/attestable-mcp-server) - MCP server that runs inside a Trusted Execution Environment (TEE) and supports remote attestation with [RA-TLS](https://gramine.readthedocs.io/en/stable/attestation.html).
 * [AWS](https://github.com/rishikavikondala/mcp-server-aws) - MCP server to manage AWS resources using natural language.
