@@ -557,6 +557,7 @@ A growing collection of community-developed servers highlights the diverse ways 
 * [YouTube](https://github.com/ZubeidHendricks/youtube-mcp-server) - MCP server to manage YouTube videos, Shorts, and access channel analytics.
 * [YouTube Video Summarizer](https://github.com/nabid-pf/youtube-video-summarizer-mcp) - MCP server to summarize long YouTube videos into concise overviews.
 * [Zoom](https://github.com/Prathamesh0901/zoom-mcp-server/tree/main) - MCP server to create, read, update, and delete Zoom meetings via the Zoom API.
+* [BountyGuard](https://github.com/doomsday-network/bounty-guard) - MCP server (`mcp_server.py` and remote `https://doomsday.network/mcp`) to scan GitHub issues and repositories for prompt-injection payloads, exfiltration traps, and cryptographic bounty escrow.
 
 
 ## Frameworks for Servers
