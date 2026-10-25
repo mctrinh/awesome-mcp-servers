@@ -15,6 +15,7 @@ These servers aim to demonstrate MCP features and the [TypeScript MCP SDK](https
 * [Memory](https://github.com/modelcontextprotocol/servers/tree/main/src/memory) - A persistent memory system built on a knowledge graph.
 * [Sequential Thinking](https://github.com/modelcontextprotocol/servers/tree/main/src/sequentialthinking) - MCP server that supports dynamic, reflective problem-solving through structured thought sequences.
 * [Time](https://github.com/modelcontextprotocol/servers/tree/main/src/time) - A utility for time and timezone conversion using MCP.
+* [Mode VC Radar MCP](https://modevc.com/api/mcp) - Read-only venture capital & AI market research MCP server (39 empirical AI charts, 3,650 VC firms, SEC Form D filings, and 18 founder financial calculators; free Streamable HTTP at https://modevc.com/api/mcp).
 
 
 ## Production-Ready Servers
