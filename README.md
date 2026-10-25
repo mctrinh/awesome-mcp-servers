@@ -557,6 +557,7 @@ A growing collection of community-developed servers highlights the diverse ways 
 * [YouTube](https://github.com/ZubeidHendricks/youtube-mcp-server) - MCP server to manage YouTube videos, Shorts, and access channel analytics.
 * [YouTube Video Summarizer](https://github.com/nabid-pf/youtube-video-summarizer-mcp) - MCP server to summarize long YouTube videos into concise overviews.
 * [Zoom](https://github.com/Prathamesh0901/zoom-mcp-server/tree/main) - MCP server to create, read, update, and delete Zoom meetings via the Zoom API.
+* [DoomPay](https://github.com/doomsday-network/doom-pay) - 2-line Stripe-style non-custodial Web3 checkout widget (`pay.js`) and MCP server for verifying L1 `DOOM` and Base Mainnet `wDOOM` payments.
 
 
 ## Frameworks for Servers
