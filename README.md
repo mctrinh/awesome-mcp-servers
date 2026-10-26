@@ -501,6 +501,7 @@ A growing collection of community-developed servers highlights the diverse ways 
 * [Solver](https://github.com/szeider/mcp-solver) - MCP server to solve constraint satisfaction and optimization problems. 
 * [SoccerDataAPI](https://github.com/yeonupark/mcp-soccer-data) - MCP server to provide real-time football match data from SoccerDataAPI.
 * [Solana Agent Kit](https://github.com/sendaifun/solana-agent-kit/tree/main/examples/agent-kit-mcp-server) - MCP server to interact with the Solana blockchain using the Solana Agent Kit, supporting 40+ protocol actions.
+* [Sports Odds API (BetRivers, Unibet & 22 more books)](https://apify.com/publicrecords/sports-odds-api) - Remote MCP server (`https://mcp.apify.com?tools=publicrecords/sports-odds-api`) returning live odds from 24 Kambi-powered sportsbooks in one call, with every book's price and the best price per outcome.
 * [Spotify](https://github.com/varunneal/spotify-mcp) - MCP server to control and interact with Spotify for music playback and user operations.
 * [Standard Korean Dictionary](https://github.com/privetin/stdict) - MCP server to search entries in the Standard Korean Dictionary via API.
 * [Starwind UI](https://github.com/Boston343/starwind-ui-mcp/) - MCP server to explore commands, docs, and components of the Starwind UI open-source Astro framework.
