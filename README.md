@@ -71,6 +71,7 @@ Production-ready MCP implementations maintained by platform providers.
 * [DexPaprika](https://github.com/coinpaprika/dexpaprika-mcp) - MCP server to access real-time DEX data, liquidity pools, token information, and trading analytics across blockchain networks.
 * [DevHub](https://github.com/devhub/devhub-cms-mcp) - A platform to manage and utilize website content via the [DevHub](https://www.devhub.com) CMS platform.
 * [DevRev](https://github.com/devrev/mcp-server) - MCP server to integrate with DevRev APIs for searching and managing objects in the DevRev Knowledge Graph.
+* [Docsy](https://github.com/getremcp/docsy-plugin) - Hosted OAuth MCP with five read-only tools for resolving public libraries, identifying indexed versions and retrieving source-linked framework or SDK documentation. Remote endpoint: `https://docsy.remcp.site/mcp/registry`.
 * [Dynatrace](https://github.com/dynatrace-oss/dynatrace-mcp) - A platform to manage and interact with the [Dynatrace Platform ](https://www.dynatrace.com/platform) for observability and monitoring.
 * [E2B](https://github.com/e2b-dev/mcp-server) - A platform to run code in secure sandboxes hosted by [E2B](https://e2b.dev).
 * [Edgee](https://github.com/edgee-cloud/mcp-server-edgee) - A platform to deploy and manage [Edgee](https://www.edgee.cloud) components and projects.
@@ -186,6 +187,7 @@ Production-ready MCP implementations maintained by platform providers.
 * [YugabyteDB](https://github.com/yugabyte/yugabytedb-mcp-server) - MCP server to interact with your [YugabyteDB](https://www.yugabyte.com/) database.
 * [Zapier](https://zapier.com/mcp) - A platform to connect your AI agents to 8,000 apps instantly.
 * [ZenML](https://github.com/zenml-io/mcp-zenml) - MCP server to interact with your MLOps and LLMOps pipelines through [ZenML](https://www.zenml.io).
+
 
 
 ## Community Servers
