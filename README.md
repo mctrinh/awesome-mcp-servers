@@ -160,6 +160,7 @@ Production-ready MCP implementations maintained by platform providers.
 * [Root Signals](https://github.com/root-signals/root-signals-mcp) - MCP server to improve and quality control your outputs with evaluations using LLM-as-Judge.
 * [Search1API](https://github.com/fatwang2/search1api-mcp) - An API for search, crawling, and sitemaps.
 * [ScreenshotOne](https://github.com/screenshotone/mcp/) - A tool to render website screenshots with [ScreenshotOne](https://screenshotone.com/)
+* [ScreenshotRun](https://github.com/screenshotrun/screenshotrun-mcp) - Screenshot API for AI agents — capture any webpage, render HTML/Markdown to image, extract page metadata with device emulation, dark mode, and stealth mode.
 * [Semgrep](https://github.com/semgrep/mcp) - MCP server enabling AI agents to secure code with [Semgrep](https://semgrep.dev/).
 * [SingleStore](https://github.com/singlestore-labs/mcp-server-singlestore) - MCP server to interact with the SingleStore database platform.
 * [Snyk](https://github.com/snyk/snyk-ls/blob/main/mcp_extension/README.md) - A tool to enhance security posture by embedding Snyk vulnerability scanning directly into agentic workflows.
@@ -181,6 +182,7 @@ Production-ready MCP implementations maintained by platform providers.
 * [Verodat](https://github.com/Verodat/verodat-mcp-server) - An AI-ready data platform you can interact with via the Verodat MCP server.
 * [VeyraX](https://github.com/VeyraX/veyrax-mcp) - A single tool to control over 100 API integrations and UI components.
 * [WayStation](https://github.com/waystation-ai/mcp) - A universal MCP server to connect to popular productivity tools such as Notion, Monday, Airtable, and many more.
+* [WatchCron](https://github.com/watchcron/watchcron-mcp) - MCP server for cron job and uptime monitoring — create monitors, view ping history, manage incidents, pause/resume, and list notification channels.
 * [WaveSpeed](https://github.com/WaveSpeedAI/mcp-server) - MCP server providing AI agents with image and video generation capabilities.
 * [Xero](https://github.com/XeroAPI/xero-mcp-server) - An official MCP server to interact with the accounting data in your business.
 * [YugabyteDB](https://github.com/yugabyte/yugabytedb-mcp-server) - MCP server to interact with your [YugabyteDB](https://www.yugabyte.com/) database.
