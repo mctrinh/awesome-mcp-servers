@@ -58,6 +58,7 @@ Production-ready MCP implementations maintained by platform providers.
 * [Chronulus AI](https://github.com/ChronulusAI/chronulus-mcp) - MCP server for making predictions using Chronulus AI forecasting and prediction agents.
 * [CircleCI](https://github.com/CircleCI-Public/mcp-server-circleci) - MCP server that enables AI agents to fix build failures on CircleCI.
 * [ClickHouse](https://github.com/ClickHouse/mcp-clickhouse) - MCP server to query your [ClickHouse](https://clickhouse.com/) database.
+* [Coding Tools MCP](https://github.com/mybolide/coding-tools-mcp) - Desktop (Rust + Tauri 2) MCP workspace that turns a local project into an AI-developable area: file read/edit, command and test execution, Git status, plus resumable history sessions.
 * [Cloudflare](https://github.com/cloudflare/mcp-server-cloudflare) - A platform to deploy, configure, and manage Cloudflare resources such as Workers, KV, R2, and D1.
 * [Codacy](https://github.com/codacy/codacy-mcp-server/) - MCP server to interact with the Codacy API for querying code quality, vulnerabilities, and coverage insights.
 * [CodeLogic](https://github.com/CodeLogicIncEngineering/codelogic-mcp-server) - A platform that maps code and data architecture to improve AI-driven insights.
@@ -117,6 +118,7 @@ Production-ready MCP implementations maintained by platform providers.
 * [Litmus.io](https://github.com/litmusautomation/litmus-mcp-server) - An official MCP server for configuring [Litmus](https://litmus.io) Edge for Industrial Data Collection, Edge Analytics & Industrial AI.
 * [Mailgun](https://github.com/mailgun/mailgun-mcp-server) - MCP server to interact with the Mailgun API.
 * [Make](https://github.com/integromat/make-mcp-server) - MCP server to turn your [Make](https://www.make.com/) scenarios into callable tools for AI assistants.
+* [mcp-probe-kit](https://github.com/mybolide/mcp-probe-kit) - Spec-driven dev workflow MCP: start_feature/start_bugfix orchestration, resumable plans, a converge gate requiring spec/test/review evidence, cross-session history. `npx -y mcp-probe-kit@latest`
 * [MCP Toolbox for Databases](https://github.com/googleapis/genai-toolbox) - An open source MCP server specializing in easy, fast, and secure tools for databases like AlloyDB, BigQuery, Bigtable, Cloud SQL, Dgraph, MySQL, Neo4j, Postgres, Spanner, and more.
 * [Meilisearch](https://github.com/meilisearch/meilisearch-mcp) - An API to interact with and query Meilisearch (full-text and semantic search).
 * [Memgraph](https://github.com/memgraph/mcp-memgraph) - A tool to query your data in the [Memgraph](https://memgraph.com/) graph database.
