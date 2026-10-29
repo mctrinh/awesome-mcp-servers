@@ -508,6 +508,7 @@ A growing collection of community-developed servers highlights the diverse ways 
 * [Stripe](https://github.com/atharvagupta2003/mcp-stripe) - MCP server to integrate with Stripe for handling payments, customers, and refunds.
 * [ShaderToy](https://github.com/wilsonchenghy/ShaderToy-MCP) - MCP server to interact with the ShaderToy API, enabling LLMs to learn from and create GLSL shaders.
 * [Talk To Figma](https://github.com/sonnylazuardi/cursor-talk-to-figma-mcp) - MCP server to interact with Figma, allowing LLMs to read and modify design files programmatically.
+* [Tanod](https://github.com/tanod-labs/tanod-mcp) - Hosted remote MCP server (streamable HTTP, no install) with document tools (PDF to Markdown, OCR, Office to PDF, PDF merge/split, tables), web, DNS and read-only EVM/Solana chain tools; free daily allowance per tool, then pay per call in USDC via x402.
 * [TMDB](https://github.com/Laksh-star/mcp-server-tmdb) - MCP server to access The Movie Database (TMDB) API for movie data, search, and recommendations.
 * [Tavily search](https://github.com/RamXX/mcp-tavily) - MCP server to query Tavily's search and news API, with support for site inclusion/exclusion.
 * [Telegram](https://github.com/chigwell/telegram-mcp) - MCP server to send, retrieve, and paginate chat messages on Telegram using Telethon.
