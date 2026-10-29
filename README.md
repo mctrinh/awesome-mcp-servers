@@ -575,6 +575,9 @@ These high-level frameworks simplify the process of building MCP servers.
 * [Template MCP Server](https://github.com/mcpdotdirect/template-mcp-server) - A CLI tool to create a new MCP server project with TypeScript support, dual transport options, and an extensible structure.
 
 
+* [xmcp](https://xmcp.dev) - A free, open-source TypeScript framework for building MCP servers with file-based tools, resources and prompts, hot reload, middleware, and application adapters.
+
+
 ## Frameworks for Clients
 
 
