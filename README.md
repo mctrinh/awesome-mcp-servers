@@ -50,6 +50,7 @@ Production-ready MCP implementations maintained by platform providers.
 * [Box](https://github.com/box-community/mcp-server-box) - MCP server to interact with the Intelligent Content Management platform through Box AI.
 * [Browserbase](https://github.com/browserbase/mcp-server-browserbase) - MCP server automating cloud-based browser interactions including navigation, data extraction, and form filling.
 * [BrowserStack](https://github.com/browserstack/mcp-server) - A platform to access BrowserStack's [Test Platform](https://www.browserstack.com/test-platform) for debugging, writing and fixing tests, accessibility testing, and more.
+* [Budna](https://github.com/budna-marketplace/mcp) - MCP server to search and inspect public listings, seller profiles, and bid and rating summaries on [Budna](https://budna.se), a Swedish second-hand marketplace. Read-only, no API key required.
 * [Burp Suite](https://github.com/PortSwigger/mcp-server) - MCP server extension enabling AI clients to connect with [Burp Suite](https://portswigger.net) for security testing.
 * [Cartesia](https://github.com/cartesia-ai/cartesia-mcp) - A platform to connect with the [Cartesia](https://cartesia.ai/) voice system for text-to-speech, voice cloning, and more. 
 * [Chargebee](https://github.com/chargebee/agentkit/tree/main/modelcontextprotocol) - MCP server that connects AI agents to the [Chargebee platform](https://www.chargebee.com).
