@@ -66,6 +66,7 @@ Production-ready MCP implementations maintained by platform providers.
 * [Convex](https://stack.convex.dev/convex-mcp-server) - MCP server to introspect and query applications deployed on Convex.
 * [Couchbase](https://github.com/Couchbase-Ecosystem/mcp-server-couchbase) - MCP server to interact with data stored in Couchbase clusters.
 * [CRIC Wuye AI](https://github.com/wuye-ai/mcp-server-wuye-ai) - A platform that connects with CRIC Wuye AI, an intelligent assistant for the property management industry.
+* [CurlShot](https://curlshot.com/docs/guides/ai-agents) - A hosted MCP server (`take_screenshot`, `list_devices`) to capture any URL, HTML or Markdown as PNG, JPEG, WebP, PDF or scrolling video using [CurlShot](https://curlshot.com).
 * [Dart](https://github.com/its-dart/dart-mcp-server) - A platform to interact with tasks, docs, and projects in [Dart](https://itsdart.com), an AI-native project management tool.
 * [DataHub](https://github.com/acryldata/mcp-server-datahub) - MCP server to search data assets, explore lineage, run SQL queries, and more using [DataHub](https://datahub.com/) metadata.
 * [DexPaprika](https://github.com/coinpaprika/dexpaprika-mcp) - MCP server to access real-time DEX data, liquidity pools, token information, and trading analytics across blockchain networks.
