@@ -164,6 +164,7 @@ Production-ready MCP implementations maintained by platform providers.
 * [SingleStore](https://github.com/singlestore-labs/mcp-server-singlestore) - MCP server to interact with the SingleStore database platform.
 * [Snyk](https://github.com/snyk/snyk-ls/blob/main/mcp_extension/README.md) - A tool to enhance security posture by embedding Snyk vulnerability scanning directly into agentic workflows.
 * [StarRocks](https://github.com/StarRocks/mcp-server-starrocks) - MCP server to interact with StarRocks.
+* [Signbee](https://github.com/signbee/mcp) - Official MCP server for [Signb.ee](https://signb.ee) enabling AI agents to send Markdown or PDF contracts for two-party e-signing with SHA-256 certified delivery and OTP verification.
 * [Stripe](https://github.com/stripe/agent-toolkit) - MCP server to interact with Stripe API.
 * [Tavily](https://github.com/tavily-ai/tavily-mcp) - A search engine for AI agents (search + extract) powered by Tavily [Tavily](https://tavily.com/)
 * [Terraform](https://github.com/hashicorp/terraform-mcp-server) - An integration tool with the Terraform ecosystem, enabling advanced automation and interaction for Infrastructure as Code (IaC).
