@@ -371,6 +371,7 @@ A growing collection of community-developed servers highlights the diverse ways 
 * [LlamaCloud](https://github.com/run-llama/mcp-server-llamacloud) - MCP server for accessing managed indexes hosted on [LlamaCloud](https://cloud.llamaindex.ai/)
 * [lldb-mcp](https://github.com/stass/lldb-mcp) - MCP server for using LLDB via natural language for LLM-guided debugging.
 * [llm-context](https://github.com/cyberchitta/llm-context.py) - An MCP utility server that provides repo-packing and file selection using configurable inclusion/exclusion patterns.
+* [looot](https://looot.ai/mcp) - Remote MCP server to search and call 300+ data providers for SEO, enrichment and scraping.
 * [LottieFiles](https://github.com/junmer/mcp-server-lottiefiles) - MCP server for searching and retrieving animations from [LottieFiles](https://lottiefiles.com/)
 * [lucene-mcp-server](https://github.com/VivekKumarNeu/MCP-Lucene-Server) - MCP server built with Spring Boot using Apache Lucene for fast document indexing and search.
 * [mac-messages-mcp](https://github.com/carterlasalle/mac_messages_mcp) - MCP server for securely querying and analyzing iMessage data, supporting message sending, attachments, group chats, and contact management.
