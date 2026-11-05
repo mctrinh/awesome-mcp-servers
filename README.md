@@ -176,6 +176,7 @@ Production-ready MCP implementations maintained by platform providers.
 * [UnifAI](https://github.com/unifai-network/unifai-mcp-server) - A platform to dynamically search and call tools using [UnifAI Network](https://unifai.network)
 * [Unstructured](https://github.com/Unstructured-IO/UNS-MCP) - A system to set up and interact with your unstructured data processing workflows on the [Unstructured Platform](https://unstructured.io)
 * [Upstash](https://github.com/upstash/mcp-server) - A service to manage Redis databases and run Redis commands on Upstash [Upstash](https://upstash.com/) with natural language.
+* [Vaneform](https://github.com/jiangqizheng/vaneform-mcp) - Official hosted MCP at [vaneform.com/mcp](https://vaneform.com/mcp) for free website traffic lookups (monthly visits, sources, countries, domain compares).
 * [Vectorize](https://github.com/vectorize-io/vectorize-mcp-server/) - MCP server for advanced retrieval, Private Deep Research, Anything-to-Markdown file extraction, and text chunking using [Vectorize](https://vectorize.io).
 * [Verbwire](https://github.com/verbwire/verbwire-mcp-server) - A platform to deploy smart contracts, mint NFTs, manage IPFS storage, and more through the Verbwire API.
 * [Verodat](https://github.com/Verodat/verodat-mcp-server) - An AI-ready data platform you can interact with via the Verodat MCP server.
