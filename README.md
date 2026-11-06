@@ -423,6 +423,7 @@ A growing collection of community-developed servers highlights the diverse ways 
 * [NBA](https://github.com/Taidgh-Robinson/nba-mcp-server) - TMCP server for retrieving historical and current NBA game data, including advanced statistics.
 * [NS Travel Information](https://github.com/r-huijts/ns-mcp-server) - MCP server for accessing real-time Dutch Railways (NS) travel data, including delays and disruptions.
 * [Neo4j](https://github.com/da-okazaki/mcp-neo4j-server) - MCP server for interacting with Neo4j graph databases.
+* [NeverApply](https://github.com/kasovy/neverapply-mcp) - Hosted MCP job-search agent (Streamable HTTP + OAuth) to match jobs, tailor resumes, and apply with approval for Claude/Cursor/Cline.
 * [Neovim](https://github.com/bigcodegen/mcp-neovim-server) - MCP server to interact with and control a Neovim session.
 * [nomad-mcp](https://github.com/kocierik/mcp-nomad) - MCP server for managing HashiCorp Nomad clusters and workloads.
 * [Notion](https://github.com/suekou/mcp-notion-server) - MCP server for integrating with the Notion API, enabling read/write actions.
