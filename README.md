@@ -184,6 +184,7 @@ Production-ready MCP implementations maintained by platform providers.
 * [WaveSpeed](https://github.com/WaveSpeedAI/mcp-server) - MCP server providing AI agents with image and video generation capabilities.
 * [Xero](https://github.com/XeroAPI/xero-mcp-server) - An official MCP server to interact with the accounting data in your business.
 * [YugabyteDB](https://github.com/yugabyte/yugabytedb-mcp-server) - MCP server to interact with your [YugabyteDB](https://www.yugabyte.com/) database.
+* [Zambo](https://zambo.dev/mcp) - A platform and the verifiable work layer for AI: 153 tools behind one MCP endpoint (36 on the default surface), continuity and handover that carry work and memory across AIs, and a verifiable AER-1 receipt for every job. Free tier is 20 calls plus 1 wrap-up free every day, and picking up in another AI is always free.
 * [Zapier](https://zapier.com/mcp) - A platform to connect your AI agents to 8,000 apps instantly.
 * [ZenML](https://github.com/zenml-io/mcp-zenml) - MCP server to interact with your MLOps and LLMOps pipelines through [ZenML](https://www.zenml.io).
 
