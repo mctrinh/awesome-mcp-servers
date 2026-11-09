@@ -132,6 +132,7 @@ Production-ready MCP implementations maintained by platform providers.
 * [Neo4j](https://github.com/neo4j-contrib/mcp-neo4j/) - A Neo4j graph database server supporting schema, read/write Cypher queries, and graph database-backed memory.
 * [Neon](https://github.com/neondatabase/mcp-server-neon) - MCP server to interact with the Neon serverless Postgres platform.
 * [Netlify](https://docs.netlify.com/welcome/build-with-ai/netlify-mcp-server/) - A platform to create, build, deploy, and manage your websites with the Netlify web platform.
+* [Nexscope](https://github.com/nexscope-ai/nexscope-ecommerce-api) - Remote MCP and API for ecommerce product research across Amazon and other marketplaces (`https://api.nexscope.ai/mcp`).
 * [Notion](https://github.com/makenotion/notion-mcp-server#readme) - MCP server implementation for the Notion API.
 * [OceanBase](https://github.com/oceanbase/mcp-oceanbase) - MCP server for the OceanBase database and its tools.
 * [Octagon](https://github.com/OctagonAI/octagon-mcp-server) - A platform delivering real-time investment research with extensive private and public market data.
