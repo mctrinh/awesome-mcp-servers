@@ -315,6 +315,7 @@ A growing collection of community-developed servers highlights the diverse ways 
 * [GOAT](https://github.com/goat-sdk/goat/tree/main/typescript/examples/by-framework/model-context-protocol) - MCP server to run more than 200 on-chain actions on any blockchain including Ethereum, Solana, and Base.
 * [Godot](https://github.com/Coding-Solo/godot-mcp) - MCP server providing comprehensive Godot engine integration for project editing, debugging, and scene management.
 * [Golang Filesystem Server](https://github.com/mark3labs/mcp-filesystem-server) - MCP server for secure file operations with configurable access controls, built with Go.
+* [Goldencalf — Polymarket + Kalshi odds (x402)](https://github.com/g-calf/polymarket-odds-x402) - Pay-per-call x402 API on Base mainnet for live Polymarket and Kalshi prediction market odds. MCP server `@gcalf/mcp` exposes `get_polymarket_odds`, `get_kalshi_odds`, and batch tools. $0.001–$0.02 USDC per call, no API keys.
 * [Goodnews](https://github.com/VectorInstitute/mcp-goodnews) - MCP server that delivers curated positive and uplifting news stories.
 * [Google Calendar](https://github.com/v-3/google-calendar) - MCP server for checking schedules, finding time, and adding or deleting events using Google Calendar.
 * [Google Calendar](https://github.com/nspady/google-calendar-mcp) - MCP server for managing Google Calendar events and searching by attributes like title and location.
