@@ -71,6 +71,7 @@ Production-ready MCP implementations maintained by platform providers.
 * [DexPaprika](https://github.com/coinpaprika/dexpaprika-mcp) - MCP server to access real-time DEX data, liquidity pools, token information, and trading analytics across blockchain networks.
 * [DevHub](https://github.com/devhub/devhub-cms-mcp) - A platform to manage and utilize website content via the [DevHub](https://www.devhub.com) CMS platform.
 * [DevRev](https://github.com/devrev/mcp-server) - MCP server to integrate with DevRev APIs for searching and managing objects in the DevRev Knowledge Graph.
+* [doc2md-lite](https://github.com/tidybytetools/doc2md-lite) - Free local MCP server that turns text PDFs and HTML into clean Markdown with real tables.
 * [Dynatrace](https://github.com/dynatrace-oss/dynatrace-mcp) - A platform to manage and interact with the [Dynatrace Platform ](https://www.dynatrace.com/platform) for observability and monitoring.
 * [E2B](https://github.com/e2b-dev/mcp-server) - A platform to run code in secure sandboxes hosted by [E2B](https://e2b.dev).
 * [Edgee](https://github.com/edgee-cloud/mcp-server-edgee) - A platform to deploy and manage [Edgee](https://www.edgee.cloud) components and projects.
@@ -105,11 +106,13 @@ Production-ready MCP implementations maintained by platform providers.
 * [Inkeep](https://github.com/inkeep/mcp-server-python) - A RAG search server over your content powered by [Inkeep](https://inkeep.com).
 * [Integration App](https://github.com/integration-app/mcp-server) - MCP server to interact with any SaaS applications on behalf of your customers.
 * [JetBrains](https://github.com/JetBrains/mcp-jetbrains) – MCP server to work on your code with JetBrains IDEs.
+* [json-shaper-lite](https://github.com/tidybytetools/json-shaper-lite) - Free local MCP server that turns key:value notes, CSV/TSV and Markdown tables into typed JSON.
 * [Kagi Search](https://github.com/kagisearch/kagimcp) - MCP server to search the web using Kagi's search API.
 * [Keboola](https://github.com/keboola/keboola-mcp-server) - A platform to build robust data workflows, integrations, and analytics.
 * [Klavis ReportGen](https://github.com/Klavis-AI/klavis/tree/main/mcp_servers/report_generation) - MCP server to create professional reports from a simple user query.
 * [KWDB](https://github.com/KWDB/kwdb-mcp-server) - MCP server for reading, writing, querying, and modifying data in your KWDB database.
 * [Lara Translate](https://github.com/translated/lara-mcp) - MCP server for Lara Translate API, enabling powerful translation capabilities with support for language detection and context-aware translations.
+* [link-check-lite](https://github.com/tidybytetools/link-check-lite) - Free local MCP server that checks URLs for status codes, redirects and broken links.
 * [Logfire](https://github.com/pydantic/logfire-mcp) - MCP server that provides access to OpenTelemetry traces and metrics through Logfire.
 * [Langfuse Prompt Management](https://github.com/langfuse/mcp-server-langfuse) - An open-source tool for collaborative editing, versioning, evaluating, and releasing prompts.
 * [Linear](https://linear.app/docs/mcp) - MCP server to search, create, and update Linear issues, projects, and comments.
@@ -118,6 +121,7 @@ Production-ready MCP implementations maintained by platform providers.
 * [Mailgun](https://github.com/mailgun/mailgun-mcp-server) - MCP server to interact with the Mailgun API.
 * [Make](https://github.com/integromat/make-mcp-server) - MCP server to turn your [Make](https://www.make.com/) scenarios into callable tools for AI assistants.
 * [MCP Toolbox for Databases](https://github.com/googleapis/genai-toolbox) - An open source MCP server specializing in easy, fast, and secure tools for databases like AlloyDB, BigQuery, Bigtable, Cloud SQL, Dgraph, MySQL, Neo4j, Postgres, Spanner, and more.
+* [md-chunk-lite](https://github.com/tidybytetools/md-chunk-lite) - Free local MCP server that splits Markdown into heading-aware chunks for RAG.
 * [Meilisearch](https://github.com/meilisearch/meilisearch-mcp) - An API to interact with and query Meilisearch (full-text and semantic search).
 * [Memgraph](https://github.com/memgraph/mcp-memgraph) - A tool to query your data in the [Memgraph](https://memgraph.com/) graph database.
 * [Metoro](https://github.com/metoro-io/metoro-mcp-server) - A service to query and interact with Kubernetes environments monitored by Metoro.
@@ -142,6 +146,7 @@ Production-ready MCP implementations maintained by platform providers.
 * [Paddle](https://github.com/PaddleHQ/paddle-mcp-server) - MCP server to interact with the Paddle API for managing product catalog, billing, subscriptions, and reports.
 * [Pagos](https://github.com/pagos-ai/pagos-mcp) - MCP server to query Credit Card BIN Data via the Pagos API, with more features planned.
 * [PayPal](https://mcp.paypal.com) - An official MCP server for PayPal.
+* [pdf-table-pull-lite](https://github.com/tidybytetools/pdf-table-pull-lite) - Free local MCP server that pulls tables from text PDFs into CSV.
 * [Perplexity](https://github.com/ppl-ai/modelcontextprotocol) - MCP server connecting to Perplexity's Sonar API for real-time web-wide research in conversational AI.
 * [Pinecone](https://github.com/pinecone-io/pinecone-mcp) - A developer MCP server assisting with documentation search and data management within the Pinecone environment.
 * [Pinecone Assistant](https://github.com/pinecone-io/assistant-mcp) - MCP server that retrieves context from your Pinecone Assistant knowledge base.
