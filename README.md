@@ -226,6 +226,7 @@ A growing collection of community-developed servers highlights the diverse ways 
 * [BambooHR MCP](https://github.com/encoreshao/bamboohr-mcp) - MCP server that interfaces with the BambooHR API, providing access to employee data, time tracking, and HR management features.
 * [Base Free USDC Transfer](https://github.com/magnetai/mcp-free-usdc-transfer) - MCP server to send USDC on Base for free using Claude AI. Built with [Coinbase CDP](https://docs.cdp.coinbase.com/mpc-wallet/docs/welcome).
 * [Basic Memory](https://github.com/basicmachines-co/basic-memory) - A local-first knowledge management system that builds a semantic graph from Markdown files, enabling persistent memory across LLM conversations.
+* [Behave](https://github.com/emirmrkaljevic/behave) - MCP server and CLI that records how a command-line tool behaves, then diffs a rewrite against those golden tests.
 * [BigQuery](https://github.com/LucasHild/mcp-server-bigquery) - MCP server that enables LLMs to inspect database schemas and execute SQL queries on BigQuery.
 * [BigQuery](https://github.com/ergut/mcp-bigquery-server) - MCP server implementation for Google BigQuery that provides direct access to database querying capabilities.
 * [Bing Web Search API](https://github.com/leehanchung/bing-search-mcp) - MCP server that integrates with the Microsoft Bing Web Search API.
