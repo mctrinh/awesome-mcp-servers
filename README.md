@@ -243,6 +243,7 @@ A growing collection of community-developed servers highlights the diverse ways 
 * [Chroma](https://github.com/privetin/chroma) - A vector database MCP server for semantic document search and metadata filtering, built on Chroma.
 * [ClaudePost](https://github.com/ZilongXue/claude-post) - MCP server for managing Gmail, including email search, reading, and sending, with secure LLM interactions.
 * [ClickUp](https://github.com/TaazKareem/clickup-mcp-server) - MCP server for ClickUp task management, supporting task creation, updates, bulk operations, and markdown formatting.
+* [CloudGPU](https://github.com/mrhy7176/cloudgpu-mcp) - MCP server to discover rental GPUs, request quotes, run GPU jobs, transfer files, read logs, and shut down instances.
 * [Cloudinary](https://github.com/felores/cloudinary-mcp-server) - MCP server to upload media to Cloudinary and retrieve media links and metadata.
 * [code-assistant](https://github.com/stippi/code-assistant) - A code exploration and modification assistant for trusted repositories, with limited protection against prompt injection.
 * [code-executor](https://github.com/bazinga012/mcp_code_executor) - MCP server that enables LLMs to run Python code inside a specified Conda environment.
