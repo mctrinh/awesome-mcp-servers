@@ -302,6 +302,7 @@ A growing collection of community-developed servers highlights the diverse ways 
 * [Figma](https://github.com/GLips/Figma-Context-MCP) - MCP server that gives your coding agent direct access to Figma file data, enabling one-shot design implementation.
 * [Firebase](https://github.com/gannonh/firebase-mcp) - MCP server to interact with Firebase services including Firebase Authentication, Firestore, and Firebase Storage.
 * [FireCrawl](https://github.com/vrknetha/mcp-server-firecrawl) - An advanced web scraping server with JavaScript rendering, PDF support, and smart rate limiting.
+* [FlashData](https://github.com/rocosen/flashdata-mcp) - Google Search and YouTube data MCP for search, metadata, existing transcripts and downloads; API key and paid credits required. [Documentation](https://flashdata.dev/mcp).
 * [FlightRadar24](https://github.com/sunsetcoder/flightradar24-mcp-server) - A Claude Desktop MCP server that helps track flights in real-time using Flightradar24 data.
 * [freqtrade-mcp](https://github.com/kukapay/freqtrade-mcp) - MCP server that integrates with the Freqtrade cryptocurrency trading bot.
 * [Ghost](https://github.com/MFYDev/ghost-mcp) - MCP server for interacting with Ghost CMS through LLM interfaces like Claude.
