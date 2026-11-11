@@ -493,6 +493,7 @@ A growing collection of community-developed servers highlights the diverse ways 
 * [SearXNG](https://github.com/ihor-sokoliuk/mcp-searxng) - MCP server to perform meta-searches via [SearXNG](https://docs.searxng.org)
 * [SEC EDGAR](https://github.com/stefanoamorelli/sec-edgar-mcp) - MCP server to access financial filings and data from the [SEC](https://www.sec.gov/)'s EDGAR database.
 * [ServiceNow](https://github.com/osomai/servicenow-mcp) - MCP server to interact with ServiceNow instances for workflow and IT service management.
+* [Sheaf — audit recorder for AI agents](https://github.com/sheafhq/sheaf) - Zero-code MCP proxy that captures every tool call an agent makes and emits hash-chained, on-chain-anchored receipts verifiable offline via `@sheafhq/verify`. Install with `npm install -g @sheafhq/mcp-recorder`.
 * [Shodan MCP](https://github.com/Hexix23/shodan-mcp) - MCP server to interact with [Shodan](https://www.shodan.io/) for internet-connected device discovery and analysis.
 * [Shopify](https://github.com/GeLi2001/shopify-mcp) - MCP server to interact with the Shopify API, including orders, products, and customer data.
 * [Siri Shortcuts](https://github.com/dvcrn/mcp-server-siri-shortcuts) - MCP server to interact with Siri Shortcuts on macOS, exposing all Shortcuts as tools.
