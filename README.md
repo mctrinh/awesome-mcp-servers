@@ -98,6 +98,7 @@ Production-ready MCP implementations maintained by platform providers.
 * [Heroku](https://github.com/heroku/heroku-mcp-server) - MCP server to interact with the Heroku platform through LLM-driven tools for managing apps, add-ons, dynos, databases, and more.
 * [Hologres](https://github.com/aliyun/alibabacloud-hologres-mcp-server) - MCP server to connect to a [Hologres](https://www.alibabacloud.com/en/product/hologres) instance, get table metadata, and analyze data.
 * [Honeycomb](https://github.com/honeycombio/honeycomb-mcp) - A platform that allows [Honeycomb Enterprise](https://www.honeycomb.io/) customers to query data, dashboards, and production behavior.
+* [HoneyVid](https://honeyvid.ai/mcp) - Hosted MCP server (Streamable HTTP, OAuth) to make AI videos and images with [HoneyVid](https://honeyvid.ai/): put a person, pet or character from a photo into trending templates, or generate with Kling, Veo and Seedance.
 * [HubSpot](https://developer.hubspot.com/mcp) - MCP server to connect, manage, and interact with [HubSpot](https://www.hubspot.com/) CRM data.
 * [Hyperbrowser](https://github.com/hyperbrowserai/mcp) - A platform empowering AI agents with scalable, effortless browser automation via [Hyperbrowser](https://www.hyperbrowser.ai/).
 * [IBM wxflows](https://github.com/IBM/wxflows/tree/main/examples/mcp/javascript) - A tool platform by IBM to build, test, and deploy tools for any data source.
