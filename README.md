@@ -533,6 +533,7 @@ A growing collection of community-developed servers highlights the diverse ways 
 * [Vertica](https://github.com/nolleh/mcp-vertica) - MCP server to interact with Vertica databases, supporting configurable access controls and schema inspection.
 * [Video Editor](https://github.com/burningion/video-editing-mcp) - MCP server to add, edit, and search videos via [Video Jungle](https://www.video-jungle.com/).
 * [Video Still Capture](https://github.com/13rac1/videocapture-mcp) - MCP server to capture still images from OpenCV-compatible webcams or other video sources.
+* [Vidmoat](https://developer.vidmoat.com/developer/docs/mcp) - Official remote MCP (OAuth) for an agent-first AI video editor that imports footage, edits a real timeline, and renders MP4s.
 * [Virtual location (Google Street View,etc.)](https://github.com/mfukushim/map-traveler-mcp) - MCP server to simulate virtual locations using Google Maps, Street View, PixAI, Stability.ai, ComfyUI, and Bluesky.
 * [VolcEngine TOS](https://github.com/dinghuazhou/sample-mcp-server-tos) - MCP server to retrieve objects from VolcEngine TOS with flexible querying.
 * [Wanaku MCP Router](https://github.com/wanaku-ai/wanaku/) - MCP server to route requests using a streaming SSE-based engine, enabling enterprise system integration with AI agents.
