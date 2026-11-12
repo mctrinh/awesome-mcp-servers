@@ -78,6 +78,7 @@ Production-ready MCP implementations maintained by platform providers.
 * [Elasticsearch](https://github.com/elastic/mcp-server-elasticsearch) - MCP server to query and analyze your data in [Elasticsearch](https://www.elastic.co/elasticsearch).
 * [eSignatures](https://github.com/esignaturescom/mcp-server-esignatures) - MCP server for managing contracts and templates-draft, review, and send binding agreements.
 * [Exa](https://github.com/exa-labs/exa-mcp-server) - A platform to access [Exa](https://exa.ai), a search engine purpose-built for AIs.
+* [Farside Research](https://farsideresearch.com/mcp) - Hosted MCP server for cited deep research: start a run, poll it, ask follow-ups against the finished report, and search its graded sources, with every claim linked to its source ([Farside Research](https://farsideresearch.com)).
 * [Fewsats](https://github.com/Fewsats/fewsats-mcp) - A platform that enables AI agents to purchase anything securely using [Fewsats](https://fewsats.com).
 * [Fibery](https://github.com/Fibery-inc/fibery-mcp-server) - MCP server to perform queries and entity operations in your [Fibery](https://fibery.io) workspace.
 * [Financial Datasets](https://github.com/financial-datasets/mcp-server) - MCP server providing a stock market API made for AI agents.
