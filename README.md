@@ -621,4 +621,5 @@ Additional MCP resources.
 * [r/mcp](https://www.reddit.com/r/mcp) - A Reddit community for sharing projects and engaging in MCP discussions.
 * [r/modelcontextprotocol](https://www.reddit.com/r/modelcontextprotocol) - A dedicated subreddit for exploring Model Context Protocol ideas, help, and showcases.
 * [Smithery](https://smithery.ai/) - A searchable registry of MCP servers to help LLM agents find the right tools.
+* [Socketlist](https://socketlist.com) - A directory of MCP servers from the official MCP Registry, scored 0-100 on maintenance, security hygiene and adoption.
 * [Toolbase](https://gettoolbase.ai) - A desktop app for managing MCP servers and tools with a no-code interface.
