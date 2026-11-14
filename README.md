@@ -591,6 +591,7 @@ Additional MCP resources.
 
 
 * [AiMCP](https://www.aimcp.info) - A discovery platform of MCP clients and servers to help users choose the right tools for their workflow.
+* [HOL Plugins](https://hol.org/plugins) - A free directory of plugins and MCP servers for AI coding tools.
 * [Awesome Crypto MCP Servers](https://github.com/badkk/awesome-crypto-mcp-servers) - A curated list of MCP servers with a focus on crypto and blockchain integrations.
 * [Awesome MCP Servers](https://github.com/appcypher/awesome-mcp-servers) - A curated list of MCP servers.
 * [Awesome MCP Servers](https://github.com/punkpeye/awesome-mcp-servers) - A curated list of MCP servers.
