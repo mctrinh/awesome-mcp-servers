@@ -137,6 +137,7 @@ Production-ready MCP implementations maintained by platform providers.
 * [Octagon](https://github.com/OctagonAI/octagon-mcp-server) - A platform delivering real-time investment research with extensive private and public market data.
 * [OlaMaps](https://pypi.org/project/ola-maps-mcp-server) - An official Ola Maps MCP Server offering services like geocode, directions, place details, and more.
 * [OP.GG](https://github.com/opgginc/opgg-mcp) - An API to access real-time gaming data across popular titles such as League of Legends, TFT, and Valorant, including champion analytics and esports schedules.
+* [OpenAny](https://github.com/openanysi/openany-mcp) - The B2A (business to agent) marketplace. One MCP endpoint for 3,200+ APIs and 168+ AI models. Searching and checking prices is free; pay per call. Remote Streamable HTTP: https://mcp.openany.si
 * [OpsLevel](https://github.com/opslevel/opslevel-mcp) - An official MCP server for the [OpsLevel](https://www.opslevel.com) platform.
 * [Oxylabs](https://github.com/oxylabs/oxylabs-mcp) - An API to scrape websites using Oxylabs Web API, with support for dynamic rendering and structured data extraction.
 * [Paddle](https://github.com/PaddleHQ/paddle-mcp-server) - MCP server to interact with the Paddle API for managing product catalog, billing, subscriptions, and reports.
