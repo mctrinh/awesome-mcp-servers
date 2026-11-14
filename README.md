@@ -89,6 +89,7 @@ Production-ready MCP implementations maintained by platform providers.
 * [Gitea](https://gitea.com/gitea/gitea-mcp) - Interact with Gitea instances with MCP.
 * [Gitee](https://github.com/oschina/mcp-gitee) - MCP server for Gitee API integration, including repository, issue, and pull request management.
 * [Glean](https://github.com/gleanwork/mcp-server) - A platform for enterprise search and chat using Glean's API.
+* [GridZen Verification](https://github.com/immurray/gridzen-developer-kit) - Read-only MCP tools for planning identity-verification coverage and exercising sandbox decision results. Hosted endpoint: https://gridzen.ai/developers/mcp (no API key).
 * [Gyazo](https://github.com/nota/gyazo-mcp-server) - MCP server to search, fetch, upload, and interact with Gyazo images, including metadata and OCR data.
 * [gotoHuman](https://github.com/gotohuman/gotohuman-mcp-server) - A human-in-the-loop platform that allows AI agents and automations to send approval requests to your [gotoHuman](https://www.gotohuman.com) inbox.
 * [Grafana](https://github.com/grafana/mcp-grafana) - MCP server to search dashboards, investigate incidents, and query data sources in your Grafana instance.
