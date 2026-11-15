@@ -131,6 +131,7 @@ Production-ready MCP implementations maintained by platform providers.
 * [Needle](https://github.com/needle-ai/needle-mcp) - A production-ready RAG tool out of the box to search and retrieve data from your own documents.
 * [Neo4j](https://github.com/neo4j-contrib/mcp-neo4j/) - A Neo4j graph database server supporting schema, read/write Cypher queries, and graph database-backed memory.
 * [Neon](https://github.com/neondatabase/mcp-server-neon) - MCP server to interact with the Neon serverless Postgres platform.
+* [No Stairs Please](https://nostairsplease.com/mcp) - Remote MCP server for searching 4,300+ under-400-capacity North American live music venues, booking contacts, and tour routing.
 * [Netlify](https://docs.netlify.com/welcome/build-with-ai/netlify-mcp-server/) - A platform to create, build, deploy, and manage your websites with the Netlify web platform.
 * [Notion](https://github.com/makenotion/notion-mcp-server#readme) - MCP server implementation for the Notion API.
 * [OceanBase](https://github.com/oceanbase/mcp-oceanbase) - MCP server for the OceanBase database and its tools.
