@@ -492,6 +492,7 @@ A growing collection of community-developed servers highlights the diverse ways 
 * [scrapling-fetch](https://github.com/cyberchitta/scrapling-fetch-mcp) - MCP server to fetch HTML or Markdown from bot-protected websites using Scrapling.
 * [SearXNG](https://github.com/ihor-sokoliuk/mcp-searxng) - MCP server to perform meta-searches via [SearXNG](https://docs.searxng.org)
 * [SEC EDGAR](https://github.com/stefanoamorelli/sec-edgar-mcp) - MCP server to access financial filings and data from the [SEC](https://www.sec.gov/)'s EDGAR database.
+* [SEO Rank Fixer](https://seorankfixer.com) - Hosted MCP server (OAuth 2.1, `https://seorankfixer.com/api/mcp`) for Google Search Console and Bing data: SEO fixes ranked by the clicks they can win, site audits, index status, page scans and AI search visibility.
 * [ServiceNow](https://github.com/osomai/servicenow-mcp) - MCP server to interact with ServiceNow instances for workflow and IT service management.
 * [Shodan MCP](https://github.com/Hexix23/shodan-mcp) - MCP server to interact with [Shodan](https://www.shodan.io/) for internet-connected device discovery and analysis.
 * [Shopify](https://github.com/GeLi2001/shopify-mcp) - MCP server to interact with the Shopify API, including orders, products, and customer data.
