@@ -337,6 +337,7 @@ A growing collection of community-developed servers highlights the diverse ways 
 * [Hyperliquid](https://github.com/mektigboy/server-hyperliquid) - MCP server that integrates with the Hyperliquid SDK for accessing exchange data.
 * [hyprmcp](https://github.com/stefanoamorelli/hyprmcp) - MCP server for interacting with `hyprland`, designed to be lightweight and efficient.
 * [iFlytek Workflow](https://github.com/iflytek/ifly-workflow-mcp-server) - MCP server for connecting to iFlytek Workflow, allowing you to run your own agent.
+* [I2v.ai](https://github.com/i2v-ai/i2v-mcp) - Hosted MCP server for image generation and text-to-video or image-to-video across 12 image and 16 video models, where every paid task is quoted in USD before it runs.
 * [Image Generation](https://github.com/GongRzhe/Image-Generation-MCP-Server) - MCP server providing image generation capabilities using the Replicate Flux model.
 * [InfluxDB](https://github.com/idoru/influxdb-mcp-server) - MCP server for running queries against the InfluxDB OSS API v2.
 * [Inoyu](https://github.com/sergehuber/inoyu-mcp-unomi-server) - MCP server for interacting with Apache Unomi CDP, enabling retrieval and updates of customer profiles.
