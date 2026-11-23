@@ -303,6 +303,7 @@ A growing collection of community-developed servers highlights the diverse ways 
 * [Firebase](https://github.com/gannonh/firebase-mcp) - MCP server to interact with Firebase services including Firebase Authentication, Firestore, and Firebase Storage.
 * [FireCrawl](https://github.com/vrknetha/mcp-server-firecrawl) - An advanced web scraping server with JavaScript rendering, PDF support, and smart rate limiting.
 * [FlightRadar24](https://github.com/sunsetcoder/flightradar24-mcp-server) - A Claude Desktop MCP server that helps track flights in real-time using Flightradar24 data.
+* [FlowFeed](https://github.com/loyt1/flowfeed-mcp) - Remote MCP server for real-time macro, forex and crypto news and an economic calendar.
 * [freqtrade-mcp](https://github.com/kukapay/freqtrade-mcp) - MCP server that integrates with the Freqtrade cryptocurrency trading bot.
 * [Ghost](https://github.com/MFYDev/ghost-mcp) - MCP server for interacting with Ghost CMS through LLM interfaces like Claude.
 * [Git](https://github.com/geropl/git-mcp-go) - MCP server that allows LLMs to interact with a local Git repository, including optional push support.
