@@ -179,6 +179,7 @@ Production-ready MCP implementations maintained by platform providers.
 * [Vectorize](https://github.com/vectorize-io/vectorize-mcp-server/) - MCP server for advanced retrieval, Private Deep Research, Anything-to-Markdown file extraction, and text chunking using [Vectorize](https://vectorize.io).
 * [Verbwire](https://github.com/verbwire/verbwire-mcp-server) - A platform to deploy smart contracts, mint NFTs, manage IPFS storage, and more through the Verbwire API.
 * [Verodat](https://github.com/Verodat/verodat-mcp-server) - An AI-ready data platform you can interact with via the Verodat MCP server.
+* [Vertov MCP](https://vertov.app/docs/mcp) - Hosted MCP server for searching screen recordings, reading timestamped transcripts, and uploading videos through Streamable HTTP with OAuth or an API key.
 * [VeyraX](https://github.com/VeyraX/veyrax-mcp) - A single tool to control over 100 API integrations and UI components.
 * [WayStation](https://github.com/waystation-ai/mcp) - A universal MCP server to connect to popular productivity tools such as Notion, Monday, Airtable, and many more.
 * [WaveSpeed](https://github.com/WaveSpeedAI/mcp-server) - MCP server providing AI agents with image and video generation capabilities.
