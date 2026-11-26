@@ -67,6 +67,7 @@ Production-ready MCP implementations maintained by platform providers.
 * [Couchbase](https://github.com/Couchbase-Ecosystem/mcp-server-couchbase) - MCP server to interact with data stored in Couchbase clusters.
 * [CRIC Wuye AI](https://github.com/wuye-ai/mcp-server-wuye-ai) - A platform that connects with CRIC Wuye AI, an intelligent assistant for the property management industry.
 * [Dart](https://github.com/its-dart/dart-mcp-server) - A platform to interact with tasks, docs, and projects in [Dart](https://itsdart.com), an AI-native project management tool.
+* [Dash](https://github.com/dash-pup/dash-mcp) - Hosted MCP server connecting AI clients to Dash workspaces, skills, scheduled tasks, goals, and connected apps.
 * [DataHub](https://github.com/acryldata/mcp-server-datahub) - MCP server to search data assets, explore lineage, run SQL queries, and more using [DataHub](https://datahub.com/) metadata.
 * [DexPaprika](https://github.com/coinpaprika/dexpaprika-mcp) - MCP server to access real-time DEX data, liquidity pools, token information, and trading analytics across blockchain networks.
 * [DevHub](https://github.com/devhub/devhub-cms-mcp) - A platform to manage and utilize website content via the [DevHub](https://www.devhub.com) CMS platform.
