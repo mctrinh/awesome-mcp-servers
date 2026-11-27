@@ -158,6 +158,7 @@ Production-ready MCP implementations maintained by platform providers.
 * [Rember](https://github.com/rember/rember-mcp) - A tool to create spaced repetition flashcards in Rember to remember anything you learn in your chats.
 * [Riza](https://github.com/riza-io/riza-mcp) - An arbitrary code execution and tool-use platform for LLMs by Riza.
 * [Root Signals](https://github.com/root-signals/root-signals-mcp) - MCP server to improve and quality control your outputs with evaluations using LLM-as-Judge.
+* [SaaSCity](https://github.com/nyyhao/saascity-mcp) - Keyless remote MCP server (`https://saascity.io/api/mcp`) with 23 tools for homepage launch audits, 1,600+ startup directory lookup, backlink checks, and SaaS calculators on [SaaSCity](https://saascity.io/mcp).
 * [Search1API](https://github.com/fatwang2/search1api-mcp) - An API for search, crawling, and sitemaps.
 * [ScreenshotOne](https://github.com/screenshotone/mcp/) - A tool to render website screenshots with [ScreenshotOne](https://screenshotone.com/)
 * [Semgrep](https://github.com/semgrep/mcp) - MCP server enabling AI agents to secure code with [Semgrep](https://semgrep.dev/).
