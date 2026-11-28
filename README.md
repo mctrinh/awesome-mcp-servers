@@ -559,6 +559,9 @@ A growing collection of community-developed servers highlights the diverse ways 
 * [Zoom](https://github.com/Prathamesh0901/zoom-mcp-server/tree/main) - MCP server to create, read, update, and delete Zoom meetings via the Zoom API.
 
 
+
+- [ViralForge](https://github.com/fendouai/ViralForge) - MCP tools for local video analysis and editable VFML project export.
+
 ## Frameworks for Servers
 
 
